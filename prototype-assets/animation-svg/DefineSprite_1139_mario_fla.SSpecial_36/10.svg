@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:ffdec="https://www.free-decompiler.com/flash" xmlns:xlink="http://www.w3.org/1999/xlink" ffdec:objectType="frame" height="79.65px" width="193.55px" xmlns="http://www.w3.org/2000/svg">
+  <g transform="matrix(1.0, 0.0, 0.0, 1.0, 46.2, 38.75)">
+    <use ffdec:characterId="1049" height="21.9" id="itemBox" transform="matrix(0.8238, -0.5585, 0.5585, 0.8238, 17.85, 9.75)" width="3.7" xlink:href="#sprite0"/>
+    <use ffdec:characterId="729" ffdec:characterName="mario_bs8" height="75.0" transform="matrix(1.0, 0.0, 0.0, 1.0, -46.2, -37.75)" width="154.0" xlink:href="#tag0"/>
+    <use ffdec:characterId="1136" height="59.9" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="169.35" xlink:href="#shape1"/>
+    <use ffdec:characterId="138" ffdec:characterName="mario_fla.CollisonBox_6" height="50.0" id="hitBox" transform="matrix(0.2959, 0.0, 0.0, 0.3517, 25.85, 14.85)" width="50.0" xlink:href="#sprite2"/>
+    <use ffdec:characterId="138" ffdec:characterName="mario_fla.CollisonBox_6" height="50.0" id="hitBox2" transform="matrix(0.3839, 0.0, 0.0, 0.2407, 28.45, 27.4)" width="50.0" xlink:href="#sprite2"/>
+    <use ffdec:characterId="138" ffdec:characterName="mario_fla.CollisonBox_6" height="50.0" id="hitBox3" transform="matrix(0.3334, 0.0, 0.0, 0.24, 12.35, 17.25)" width="50.0" xlink:href="#sprite2"/>
+    <use ffdec:characterId="138" ffdec:characterName="mario_fla.CollisonBox_6" height="50.0" id="hitBox4" transform="matrix(0.3592, 0.0, 0.0, 0.2706, 22.15, 1.25)" width="50.0" xlink:href="#sprite2"/>
+  </g>
+  <defs>
+    <g id="sprite0">
+      <use ffdec:characterId="1048" ffdec:characterName="mario_fla.itemPlaceholder_mc_5" height="21.9" transform="matrix(1.0, 0.0, 0.0, 1.0, -1.45, -20.95)" width="3.7" xlink:href="#sprite1"/>
+    </g>
+    <g id="sprite1">
+      <use ffdec:characterId="1047" height="21.9" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="3.7" xlink:href="#shape0"/>
+    </g>
+    <g id="shape0">
+      <path d="M0.0 20.9 L0.0 0.0 2.7 0.0 2.7 20.9 0.0 20.9" fill="#006600" fill-opacity="0.5372549" fill-rule="evenodd" stroke="none"/>
+      <path d="M0.0 20.9 L0.0 0.0 2.7 0.0 2.7 20.9 0.0 20.9 Z" ffdec:has-small-stroke="true" ffdec:original-stroke-width="1.0" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.6" stroke-width="1.0047341668542626"/>
+    </g>
+    <g id="tag0">
+      <pattern height="75" id="PatternID_729_1" overflow="visible" patternTransform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" patternUnits="userSpaceOnUse" viewBox="0 0 154 75" width="154">
+        <image height="75" style="image-rendering:optimizeQuality" width="154" xlink:href="data:image/PNG;base64,iVBORw0KGgoAAAANSUhEUgAAAJoAAABLCAYAAACInZ6dAAADYUlEQVR42u2cPWsUURSGI5IiGIgkoBCQGBPwC0wQiygINjaBFBZWwcJKiTaivyEWIhZaWQtaBPwBYpe/YOFP0NJGu5F34A1nb+bj3mVXhHkeeJn9mN3i8nDOPTPJzswAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQD5792cqhZWAqQr2/fPJ6u0LZIMpClZVJ0aCbDAxwVS9miRDNpiIZH2COTpH569fOjUSVhF6JcsRLMZ7to1P1+tcfHUZ2WCykqWVDdkgS7JxRaOyQbFok65q7NtgqrJZNB31HNkgSza/phbpqbTpPH2H5Dr3aAXRIF+2KFeUrK+qWTS3UkSDVtlSuXLbqq+tSTYkg17ZcqtY2wTqQeDw+U51fh7ZoEe00uHA7XP/9tVasF/v9+ogG2TJVjKR6rOqZBYM0aBTtHiDvUm6NvHcPmdnZ2vBaJ+QJVqbdFG8NtEsGysKxe2zK3Gfpkom0VhJKJ5AuypZOhDQMmEs2UoGAv7sGxAN/n/RSq+nXZmjdcI/Eu30wiqyQb5s44gmyRxWEbJFy5XNom1uv6lz4cYessF0WqgHgjuPvyAblIkW/7G4TzhXNYkmyb593EI06Ecb+5+ra9XXs8tZwlm05bV7dSQbVQ2yJXu5tFTnwdx8p3AWTXKxV4OxJPNlC0uUChd/FMaVjIoGvZJF0XwR1qI52oM1/fqQW6fbJ6INjLXVxUppe11CSa4myYxlk0SqbJYpDg5RSCQbqGi///yoLFbMwYfd+ii52iSzaKpk3n/FyuWWqnPYnw1cNAll2XR0ooRtkkXZ0taooy5rKIgGR20yStYkW9d3RNEcvYZocKx9Pntysz66wlkwt9C+70kHA4smwSwakg28dUbJ4uO2YUGcWZivnHjj3ElvOyHawEWTWJLKYlm0riq2tb5YKXc3V+q4msV2mUrmx8g28D2aY/FKRYstMpXM77FHg2PidZ0jyV7vXjuSLYrmG+dN0iEbFCHBDvd3jokWK1dbZUM0KJatbZ8WJ8+m53GQUFhNKKpqUaamvHt4aySWFNkgW7Sn2xsjU6XksUh6z0klQzQoFi0KE0VLZdNzfVYDBe0TekWLk2eTaIrOkVRpvMdTWE3IFk3tMK1MUaY0rCAUT51NkgFMDC5RAAAAAMDQ+At0sKoxIsMlRwAAAABJRU5ErkJggg=="/>
+      </pattern>
+      <path d="M0.0 0.0 L0.0 75.0 154.0 75.0 154.0 0.0 0.0 0.0" ffdec:fill-bitmapId="729" fill-rule="evenodd" style="fill:url(#PatternID_729_1)"/>
+    </g>
+    <g id="shape1">
+      <pattern height="80" id="PatternID_1136_1" overflow="visible" patternTransform="matrix(1.0583, 0.0, 0.0, 0.7484, -22.0, -19.0)" patternUnits="userSpaceOnUse" viewBox="0 0 160 80" width="160">
+        <image height="80" style="image-rendering:optimizeQuality" width="160" xlink:href="data:image/PNG;base64,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"/>
+      </pattern>
+      <path d="M-22.0 -19.0 L147.35 -19.0 147.35 40.9 -22.0 40.9 -22.0 -19.0" ffdec:fill-bitmapId="1135" fill-rule="evenodd" style="fill:url(#PatternID_1136_1)"/>
+    </g>
+    <g id="sprite2">
+      <use ffdec:characterId="137" height="50.0" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="50.0" xlink:href="#shape2"/>
+    </g>
+    <g id="shape2">
+      <path d="M25.0 -25.0 L25.0 25.0 -25.0 25.0 -25.0 -25.0 25.0 -25.0" fill="#956626" fill-opacity="0.0" fill-rule="evenodd" stroke="none"/>
+    </g>
+  </defs>
+</svg>

@@ -1,0 +1,15 @@
+package
+{
+   import flash.display.BitmapData;
+   
+   [Embed(source="/_assets/824_mario_sf9.png")]
+   public dynamic class mario_sf9 extends BitmapData
+   {
+      
+      public function mario_sf9(param1:int = 86, param2:int = 59)
+      {
+         super(param1,param2);
+      }
+   }
+}
+

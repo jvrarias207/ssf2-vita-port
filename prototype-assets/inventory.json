@@ -1,0 +1,65 @@
+[
+  {
+    "id": "DAT357",
+    "description": "Mario",
+    "source": "C:\\Users\\javon\\Desktop\\SSF2\\Super Smash Flash 2 Beta\\data\\DAT357.ssf",
+    "sourceBytes": 3231197,
+    "sha256": "D6D6699CC513CB96B2055E2AB385804675235A1FC8DD63FB4B084B5B089F01AC",
+    "swfBytes": 3561479,
+    "signature": "FWS"
+  },
+  {
+    "id": "DAT118",
+    "description": "Luigi",
+    "source": "C:\\Users\\javon\\Desktop\\SSF2\\Super Smash Flash 2 Beta\\data\\DAT118.ssf",
+    "sourceBytes": 4061866,
+    "sha256": "6259DB58F170A4A57AB29BAB1E1B642D4052A9D08D58BA614564608EEEFB7F02",
+    "swfBytes": 4412871,
+    "signature": "FWS"
+  },
+  {
+    "id": "DAT213",
+    "description": "Final Destination",
+    "source": "C:\\Users\\javon\\Desktop\\SSF2\\Super Smash Flash 2 Beta\\data\\DAT213.ssf",
+    "sourceBytes": 3635392,
+    "sha256": "ED7AF2A405F6B017214DD9B83E3B69C30CBAD3E58FC7CD99B76208DF0CC03487",
+    "swfBytes": 3772148,
+    "signature": "FWS"
+  },
+  {
+    "id": "DAT51",
+    "description": "Resource mappings",
+    "source": "C:\\Users\\javon\\Desktop\\SSF2\\Super Smash Flash 2 Beta\\data\\DAT51.ssf",
+    "sourceBytes": 90407,
+    "sha256": "FD914FEA0ACB0C11999B32E27429D888FE04496FDBA381286DF964904BB39263",
+    "swfBytes": 256447,
+    "signature": "FWS"
+  },
+  {
+    "id": "DAT67",
+    "description": "Shared miscellaneous assets",
+    "source": "C:\\Users\\javon\\Desktop\\SSF2\\Super Smash Flash 2 Beta\\data\\DAT67.ssf",
+    "sourceBytes": 8963473,
+    "sha256": "ED547108D5A488869D89485A31973BF9249E5797BFD2F8724BB738E41DB16C92",
+    "swfBytes": 10328986,
+    "signature": "FWS"
+  },
+  {
+    "id": "DAT75",
+    "description": "Shared effects",
+    "source": "C:\\Users\\javon\\Desktop\\SSF2\\Super Smash Flash 2 Beta\\data\\DAT75.ssf",
+    "sourceBytes": 4319955,
+    "sha256": "4D113FDCD452AE1C5246C7F590F88BEBA057ABB3E78CCEBCD2A17CD5BE76C0C1",
+    "swfBytes": 4546756,
+    "signature": "FWS"
+  },
+  {
+    "id": "DAT141",
+    "description": "Shared audio",
+    "source": "C:\\Users\\javon\\Desktop\\SSF2\\Super Smash Flash 2 Beta\\data\\DAT141.ssf",
+    "sourceBytes": 14851732,
+    "sha256": "A45D92CD41933763A39CD0A0BA72553A4525D59E500207242572CD7475152945",
+    "swfBytes": 15212996,
+    "signature": "FWS"
+  }
+]

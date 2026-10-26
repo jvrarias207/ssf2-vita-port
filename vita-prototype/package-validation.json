@@ -1,0 +1,37 @@
+{
+  "package": "SSF2-Vita-Prototype.vpk",
+  "bytes": 3413611,
+  "sha256": "2fc750d6908a8dfc09f2f6df785ffd3fb2eb4df6708aad2aad2025340ebe7d26",
+  "checks": [
+    "ZIP CRC",
+    "required entries and byte equality",
+    "SELF magic",
+    "SFO title ID/version",
+    "ARM ELF32",
+    "RGBA texture sizes",
+    "indexed LiveArea PNG dimensions",
+    "LiveArea XML"
+  ],
+  "hardwareTested": false,
+  "metadata": {
+    "APP_VER": "00.52",
+    "ATTRIBUTE": "00800000",
+    "ATTRIBUTE2": "00000000",
+    "ATTRIBUTE_MINOR": "10000000",
+    "BOOT_FILE": "",
+    "CATEGORY": "gd",
+    "CONTENT_ID": "",
+    "EBOOT_APP_MEMSIZE": "00000000",
+    "EBOOT_ATTRIBUTE": "00000000",
+    "EBOOT_PHY_MEMSIZE": "00000000",
+    "LAREA_TYPE": "00000000",
+    "NP_COMMUNICATION_ID": "",
+    "PARENTAL_LEVEL": "00000000",
+    "PSP2_DISP_VER": "00.000",
+    "PSP2_SYSTEM_VER": "00000000",
+    "STITLE": "SSF2 Prototype",
+    "TITLE": "SSF2 Prototype",
+    "TITLE_ID": "SSF2P0001",
+    "VERSION": "00.00"
+  }
+}

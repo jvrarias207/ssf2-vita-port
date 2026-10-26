@@ -1,0 +1,15 @@
+package
+{
+   import flash.display.BitmapData;
+   
+   [Embed(source="/_assets/450_mario_lr1.png")]
+   public dynamic class mario_lr1 extends BitmapData
+   {
+      
+      public function mario_lr1(param1:int = 50, param2:int = 86)
+      {
+         super(param1,param2);
+      }
+   }
+}
+

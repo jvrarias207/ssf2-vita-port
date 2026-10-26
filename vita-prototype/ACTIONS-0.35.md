@@ -1,0 +1,22 @@
+# Mario actions 0.35 — source-based prototype implementation
+
+## Up-air and opponent geometry
+
+The original active up-air boxes are frames 3–5, including the backward-reaching frame-5 kick. The target uses its original per-pose hurtboxes. The native bug was collision ordering: replacing the airborne attack frame with landing geometry before checking hits discarded its last active contact. Tick now updates both fighters, checks the aerial contact, then commits the landing transition. A real short-hop test (not manually placed airborne coordinates) confirms a 7% hit on a grounded opponent 40 units behind Mario, facing either direction. An exploratory sweep connected at 10–47 units with the attack timed on descent. No hitbox enlargement was added.
+
+## Animations and behavior
+
+- Crouch: original symbol 1198, frame 4 hold; original Idle uncrouch branch 65–68 on release. Hurtboxes change with the pose.
+- Shield: original symbol 1213, frames 1–4 with pause at source frame 3; drop branch 5–10. Starts with 100 health, drains 1.12/tick after five startup ticks, regenerates 0.28/tick off shield, loses hit damage * 1.4. Radius uses `55 * (0.5 + health/100 * (1.25 - 0.5)) / 2`. Shield blocks authored attack/projectile boxes. Break launches using source shield-break knockback values, restores shield health to 60 and enters 90-tick dizzy recovery. A jump can interrupt shielding.
+- Fireball: original ground/air symbols 1121/1122, projectile fired on source frame 9; action ends at 18. Projectile artwork/attack helpers come from symbol 220 using the source symbol-221 stance transform. Speed 8, gravity 1.1, fall cap 7, bounce 9 with 0.95 decay, lifetime 40, limit six per owner, damage 5%. Disappears on target/shield contact; Cape reflects it and transfers ownership. Ground/air neutral animations preserve frame on transition.
+- Cape: original ground/air symbols 1139/1147; authored attack at frame 6; ends at 19; damage 8%, target facing reversal, projectile reflection. Air cape applies its source -4 vertical lift and maximum falling speed 5.
+- Super Jump Punch: original ground/air symbols 1123/1124. Source startup angle `atan(26/18)`, horizontal input adjustments of 5.5 degrees, minimum 45 degrees, movement speed 25. Intangibility on frames 2–3. Source attack-ID refreshes on frames 4–12 and final hit 3% / 60 degrees / power 70. Ends at 22 into original SpecialFall (helpless), then original SpecialLand on contact. No new jump/special while helpless.
+- Tornado: original symbol 1153, ends at frame 33. Multi-hit source ID refreshes, 1% early hits and 5% finisher; source horizontal cap 3. Tapping Circle during the early spin applies rise amount initially -6 and an additional -2 per tap, as the source timer does; accepting rise ends at source frame 17. Fast fall is disabled during Tornado. Landing restores rise eligibility.
+
+Original script references are preserved in the animation index: `Crouch_69.as`, `Guard_82.as`, `NSpecial_32.as`, `NSpecialAir_33.as`, `SSpecial_36.as`, `SSpecialAir_37.as`, `USpecial_34.as`, `USpecialAir_35.as`, `DSpecial_38.as`, `SpecialFall_20.as`, `SpecialLand_22.as`, `Dizzy_83.as`, and `mario_fireball_mc_219.as`, under `resource-scripts/DAT357/scripts/mario_fla/`. Stats come from `resource-scripts/DAT357/scripts/Main.as`; shield formulas from original `Character.as` and `CharacterData.as`.
+
+## Validation and limits
+
+All 41 animation timelines / 1,064 images are extracted, rasterized without clipped cells, and round-trip verified after packing. The atlas remains 8 MiB. Native action tests exercise both facings, real short-hop rear up-air contact, crouch hurtboxes, shielding/drop/jump/break, projectile spawn/hit/expiry/limit, reflection, up-special launch/helpless/recovery and Tornado lift. Recovery, ground, aerial, dash and fast-fall regression suites remain enabled.
+
+This is not a complete Flash-engine port: shield stun/pushback/perfect shielding and break invulnerability are simplified; shared shield art is a procedural translucent bubble; no audio or full source effects are included. Special timer ordering, Cape movement/reversed-control nuances, terrain/projectile collision, knockback stacking and full attack-priority rules remain approximations. The stationary training target still has no opponent AI. Physical Vita testing is pending. These limits should not be confused with exact source stats, artwork and frame-event mappings.

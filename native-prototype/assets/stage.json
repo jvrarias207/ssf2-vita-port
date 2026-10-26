@@ -1,0 +1,290 @@
+{
+  "polygon": [
+    [
+      0.75,
+      310.3
+    ],
+    [
+      -55.10576,
+      269.90000000000003
+    ],
+    [
+      -116.83842999999999,
+      239.60000000000002
+    ],
+    [
+      -159.83531,
+      223.15
+    ],
+    [
+      -175.25591999999997,
+      214.3
+    ],
+    [
+      -187.96410999999998,
+      206.35000000000002
+    ],
+    [
+      -202.83219,
+      197.05
+    ],
+    [
+      -222.87395999999998,
+      173.65
+    ],
+    [
+      -233.92455999999999,
+      143.55
+    ],
+    [
+      -233.92455999999999,
+      133.3
+    ],
+    [
+      235.42455999999999,
+      133.3
+    ],
+    [
+      235.42455999999999,
+      143.55
+    ],
+    [
+      224.37395999999998,
+      173.65
+    ],
+    [
+      204.33219,
+      197.05
+    ],
+    [
+      189.46410999999998,
+      206.35000000000002
+    ],
+    [
+      176.75591999999997,
+      214.3
+    ],
+    [
+      161.33531,
+      223.15
+    ],
+    [
+      118.33842999999999,
+      239.60000000000002
+    ],
+    [
+      56.60576,
+      269.90000000000003
+    ],
+    [
+      1.15184,
+      310.0
+    ],
+    [
+      0.75,
+      310.3
+    ]
+  ],
+  "surface": {
+    "left": -233.92455999999999,
+    "right": 235.42455999999999,
+    "y": 133.3
+  },
+  "markers": [
+    {
+      "{https://www.free-decompiler.com/flash}characterId": "27",
+      "{https://www.free-decompiler.com/flash}characterName": "finaldestination_fla.finaldestination_TerrainMC_15",
+      "height": "178.0",
+      "transform": "matrix(1.0046, 0.0, 0.0, 1.0, 0.75, 222.55)",
+      "width": "468.2",
+      "{http://www.w3.org/1999/xlink}href": "#sprite0"
+    },
+    {
+      "{https://www.free-decompiler.com/flash}characterId": "29",
+      "{https://www.free-decompiler.com/flash}characterName": "finaldestination_fla.ledge_mc_right__16",
+      "height": "15.3",
+      "transform": "matrix(0.6066, 0.0, 0.0, 0.6066, 235.45, 133.3)",
+      "width": "15.3",
+      "{http://www.w3.org/1999/xlink}href": "#sprite1"
+    },
+    {
+      "{https://www.free-decompiler.com/flash}characterId": "31",
+      "{https://www.free-decompiler.com/flash}characterName": "finaldestination_fla.ledge_mc_left__17",
+      "height": "15.3",
+      "transform": "matrix(0.6066, 0.0, 0.0, 0.6066, -233.85, 133.3)",
+      "width": "15.3",
+      "{http://www.w3.org/1999/xlink}href": "#sprite2"
+    },
+    {
+      "{https://www.free-decompiler.com/flash}characterId": "35",
+      "{https://www.free-decompiler.com/flash}characterName": "finaldestination_fla.p3_Spawn_18",
+      "height": "31.9",
+      "transform": "matrix(1.0, 0.0, 0.0, 1.0, -88.65, 29.2)",
+      "width": "28.25",
+      "{http://www.w3.org/1999/xlink}href": "#sprite3"
+    },
+    {
+      "{https://www.free-decompiler.com/flash}characterId": "37",
+      "{https://www.free-decompiler.com/flash}characterName": "finaldestination_fla.p1_Spawn_19",
+      "height": "31.9",
+      "transform": "matrix(1.0, 0.0, 0.0, 1.0, -29.55, 29.2)",
+      "width": "28.25",
+      "{http://www.w3.org/1999/xlink}href": "#sprite4"
+    },
+    {
+      "{https://www.free-decompiler.com/flash}characterId": "39",
+      "{https://www.free-decompiler.com/flash}characterName": "finaldestination_fla.p2_Spawn_20",
+      "height": "31.9",
+      "transform": "matrix(-1.0, 0.0, 0.0, 1.0, 29.55, 29.2)",
+      "width": "28.25",
+      "{http://www.w3.org/1999/xlink}href": "#sprite5"
+    },
+    {
+      "{https://www.free-decompiler.com/flash}characterId": "41",
+      "{https://www.free-decompiler.com/flash}characterName": "finaldestination_fla.p4_Spawn_21",
+      "height": "31.9",
+      "transform": "matrix(-1.0, 0.0, 0.0, 1.0, 88.65, 29.2)",
+      "width": "28.25",
+      "{http://www.w3.org/1999/xlink}href": "#sprite6"
+    },
+    {
+      "{https://www.free-decompiler.com/flash}characterId": "43",
+      "{https://www.free-decompiler.com/flash}characterName": "finaldestination_fla.p1_Start_22",
+      "height": "17.85",
+      "transform": "matrix(1.0, 0.0, 0.0, 1.0, -149.25, 124.85)",
+      "width": "24.05",
+      "{http://www.w3.org/1999/xlink}href": "#sprite7"
+    },
+    {
+      "{https://www.free-decompiler.com/flash}characterId": "44",
+      "{https://www.free-decompiler.com/flash}characterName": "finaldestination_fla.p3_Start_23",
+      "height": "17.85",
+      "transform": "matrix(1.0, 0.0, 0.0, 1.0, -49.75, 124.85)",
+      "width": "24.05",
+      "{http://www.w3.org/1999/xlink}href": "#sprite8"
+    },
+    {
+      "{https://www.free-decompiler.com/flash}characterId": "45",
+      "{https://www.free-decompiler.com/flash}characterName": "finaldestination_fla.p2_Start_24",
+      "height": "17.85",
+      "transform": "matrix(-1.0, 0.0, 0.0, 1.0, 149.3, 124.85)",
+      "width": "24.05",
+      "{http://www.w3.org/1999/xlink}href": "#sprite9"
+    },
+    {
+      "{https://www.free-decompiler.com/flash}characterId": "46",
+      "{https://www.free-decompiler.com/flash}characterName": "finaldestination_fla.p4_Start_25",
+      "height": "17.85",
+      "transform": "matrix(-1.0, 0.0, 0.0, 1.0, 49.8, 124.85)",
+      "width": "24.05",
+      "{http://www.w3.org/1999/xlink}href": "#sprite10"
+    },
+    {
+      "{https://www.free-decompiler.com/flash}characterId": "48",
+      "{https://www.free-decompiler.com/flash}characterName": "finaldestination_fla.light_source_mc_26",
+      "height": "77.0",
+      "transform": "matrix(1.0, 0.0, 0.0, 1.0, 0.0, -80.95)",
+      "width": "77.0",
+      "{http://www.w3.org/1999/xlink}href": "#sprite11"
+    },
+    {
+      "{https://www.free-decompiler.com/flash}characterId": "50",
+      "{https://www.free-decompiler.com/flash}characterName": "finaldestination_fla.itemGen_mc_27",
+      "height": "365.8",
+      "transform": "matrix(0.7113, 0.0, 0.0, 0.057, -215.0, 89.85)",
+      "width": "605.5",
+      "{http://www.w3.org/1999/xlink}href": "#sprite12"
+    },
+    {
+      "{https://www.free-decompiler.com/flash}characterId": "50",
+      "{https://www.free-decompiler.com/flash}characterName": "finaldestination_fla.itemGen_mc_27",
+      "height": "365.8",
+      "transform": "matrix(0.7113, 0.0, 0.0, 0.057, -215.0, -90.95)",
+      "width": "605.5",
+      "{http://www.w3.org/1999/xlink}href": "#sprite13"
+    },
+    {
+      "{https://www.free-decompiler.com/flash}characterId": "50",
+      "{https://www.free-decompiler.com/flash}characterName": "finaldestination_fla.itemGen_mc_27",
+      "height": "365.8",
+      "transform": "matrix(0.7113, 0.0, 0.0, 0.057, -215.0, 0.0)",
+      "width": "605.5",
+      "{http://www.w3.org/1999/xlink}href": "#sprite14"
+    },
+    {
+      "{https://www.free-decompiler.com/flash}characterId": "52",
+      "{https://www.free-decompiler.com/flash}characterName": "finaldestination_fla.warningbounds_ll_28",
+      "height": "365.8",
+      "transform": "matrix(0.9408, 0.0, 0.0, 1.4362, -778.45, 143.9)",
+      "width": "605.5",
+      "{http://www.w3.org/1999/xlink}href": "#sprite15"
+    },
+    {
+      "{https://www.free-decompiler.com/flash}characterId": "54",
+      "{https://www.free-decompiler.com/flash}characterName": "finaldestination_fla.warningbounds_lr_29",
+      "height": "365.8",
+      "transform": "matrix(0.9312, 0.0, 0.0, 1.4021, 215.5, 143.05)",
+      "width": "605.5",
+      "{http://www.w3.org/1999/xlink}href": "#sprite16"
+    },
+    {
+      "{https://www.free-decompiler.com/flash}characterId": "56",
+      "{https://www.free-decompiler.com/flash}characterName": "finaldestination_fla.warningbounds_ul_30",
+      "height": "365.8",
+      "transform": "matrix(0.9167, 0.0, 0.0, 1.8455, -787.0, -529.35)",
+      "width": "605.5",
+      "{http://www.w3.org/1999/xlink}href": "#sprite17"
+    },
+    {
+      "{https://www.free-decompiler.com/flash}characterId": "58",
+      "{https://www.free-decompiler.com/flash}characterName": "finaldestination_fla.warningbounds_ur_31",
+      "height": "365.8",
+      "transform": "matrix(0.9154, 0.0, 0.0, 1.8505, 233.9, -531.6)",
+      "width": "605.5",
+      "{http://www.w3.org/1999/xlink}href": "#sprite18"
+    },
+    {
+      "{https://www.free-decompiler.com/flash}characterId": "52",
+      "{https://www.free-decompiler.com/flash}characterName": "finaldestination_fla.warningbounds_ll_28",
+      "height": "365.8",
+      "transform": "matrix(0.359, -0.1416, 0.0, 1.3736, -0.35, 238.9)",
+      "width": "605.5",
+      "{http://www.w3.org/1999/xlink}href": "#sprite19"
+    },
+    {
+      "{https://www.free-decompiler.com/flash}characterId": "54",
+      "{https://www.free-decompiler.com/flash}characterName": "finaldestination_fla.warningbounds_lr_29",
+      "height": "365.8",
+      "transform": "matrix(0.3463, 0.1401, 0.0, 1.4095, -210.0, 154.7)",
+      "width": "605.5",
+      "{http://www.w3.org/1999/xlink}href": "#sprite16"
+    },
+    {
+      "{https://www.free-decompiler.com/flash}characterId": "60",
+      "{https://www.free-decompiler.com/flash}characterName": "finaldestination_fla.boundary_clip_32",
+      "height": "365.8",
+      "id": "smashBallBoundary",
+      "transform": "matrix(0.7444, 0.0, 0.0, 0.6167, -225.0, -100.45)",
+      "width": "605.5",
+      "{http://www.w3.org/1999/xlink}href": "#sprite20"
+    },
+    {
+      "{https://www.free-decompiler.com/flash}characterId": "60",
+      "{https://www.free-decompiler.com/flash}characterName": "finaldestination_fla.boundary_clip_32",
+      "height": "365.8",
+      "id": "camBoundary",
+      "transform": "matrix(1.8197, 0.0, 0.0, 1.9188, -549.25, -300.0)",
+      "width": "605.5",
+      "{http://www.w3.org/1999/xlink}href": "#sprite21"
+    },
+    {
+      "{https://www.free-decompiler.com/flash}characterId": "60",
+      "{https://www.free-decompiler.com/flash}characterName": "finaldestination_fla.boundary_clip_32",
+      "height": "365.8",
+      "id": "deathBoundary",
+      "transform": "matrix(2.4814, 0.0, 0.0, 2.7412, -749.25, -476.7)",
+      "width": "605.5",
+      "{http://www.w3.org/1999/xlink}href": "#sprite21"
+    }
+  ]
+}

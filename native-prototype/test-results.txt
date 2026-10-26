@@ -1,0 +1,16 @@
+PASS Idle stays grounded for 300 ticks
+PASS Walk accelerates toward source speed 4
+PASS Full jump rises and lands
+PASS One midair jump
+PASS Walk off stage crosses KO bounds and respawns
+PASS One jab hits once across active frames
+PASS Source weight-based jab knockback formula
+PASS Out-of-range jab misses
+PASS Mirrored attack hits on left side
+PASS No invisible floor beyond platform
+PASS Deterministic fixed-step replay
+PASS Releasing during startup gives a shorter hop
+PASS Falling motion does not tunnel through stage
+Full-jump rise (prototype pixels): 107.9
+Short-hop rise (prototype pixels): 30.1001
+Failures: 0

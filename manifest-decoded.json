@@ -1,0 +1,168 @@
+{
+  "modes": {
+    "homeruncontest_mode": {
+      "file": "homeruncontest_mode.ssf",
+      "guid": "95a6da48-fef1-4400-bc78-9f1853bfd8da",
+      "file_pub": "DAT16.ssf"
+    },
+    "allstar_mode": {
+      "file": "allstar_mode.ssf",
+      "guid": "c3f82a2e-569b-428a-a918-ceb3bfccc459",
+      "file_pub": "DAT175.ssf"
+    },
+    "classic_mode": {
+      "file": "classic_mode.ssf",
+      "guid": "4abc0336-07ea-4959-9c1a-f98ffdc4c465",
+      "file_pub": "DAT43.ssf"
+    },
+    "multiman_mode": {
+      "file": "multiman_mode.ssf",
+      "guid": "5b874992-cff0-4049-9f2c-8583a604887a",
+      "file_pub": "DAT191.ssf"
+    },
+    "racetothefinish_mode": {
+      "file": "racetothefinish_mode.ssf",
+      "guid": "0ff30484-c502-45ff-bd69-6ca63420a005",
+      "file_pub": "DAT181.ssf"
+    },
+    "targets_mode": {
+      "file": "targets_mode.ssf",
+      "guid": "3610549e-ef23-462c-9f54-5f9efeff5f75",
+      "file_pub": "DAT315.ssf"
+    },
+    "arena_mode": {
+      "file": "arena_mode.ssf",
+      "guid": "c1f1cc75-5928-4fff-b983-3def600b76fb",
+      "file_pub": "DAT321.ssf"
+    },
+    "event_mode": {
+      "file": "event_mode.ssf",
+      "guid": "d56c1d3c-f0dd-4c56-9dc4-6afe72a0de39",
+      "file_pub": "DAT207.ssf"
+    },
+    "crystals_mode": {
+      "file": "crystals_mode.ssf",
+      "guid": "8b5a0c01-a486-4481-b67b-5144923a1176",
+      "file_pub": "DAT174.ssf"
+    }
+  },
+  "misc": {
+    "misc2": {
+      "file": "misc2.ssf",
+      "guid": "c6919736-6be3-46f0-b815-73abae7e9fc3",
+      "file_pub": "DAT202.ssf"
+    },
+    "misc": {
+      "file": "misc.ssf",
+      "guid": "e8bd4437-5786-4645-9ce8-399c99ec71c9",
+      "file_pub": "DAT67.ssf"
+    },
+    "ssf2intro_beta": {
+      "file": "ssf2intro_beta.ssf",
+      "guid": "5bfb6b3e-bbd0-4232-a8a6-5f66ba572812",
+      "file_pub": "DAT184.ssf"
+    },
+    "enemies": {
+      "file": "enemies.ssf",
+      "guid": "16e3aafc-fe9f-4689-97e5-5c4268507bd3",
+      "file_pub": "DAT102.ssf"
+    },
+    "mappings": {
+      "file": "mappings.ssf",
+      "guid": "d21861d9-0d6b-4ae7-a636-539fcd1d25c8",
+      "file_pub": "DAT51.ssf"
+    },
+    "pokemon": {
+      "file": "pokemon.ssf",
+      "guid": "696a2375-3a1d-4569-ae4c-9af3b0a1dd71",
+      "file_pub": "DAT148.ssf"
+    },
+    "items": {
+      "file": "items.ssf",
+      "guid": "d4d0e957-4a4e-485e-9522-ffa252ad36b6",
+      "file_pub": "DAT231.ssf"
+    },
+    "assists": {
+      "file": "assists.ssf",
+      "guid": "7908eb06-ab39-4abe-8d9b-5a9602747269",
+      "file_pub": "DAT258.ssf"
+    },
+    "effects": {
+      "file": "effects.ssf",
+      "guid": "da5cf085-2ff6-4915-8362-7ca7192725f9",
+      "file_pub": "DAT75.ssf"
+    }
+  },
+  "audio": {
+    "audio": {
+      "file": "ssf2_audio.ssf",
+      "guid": "36277bd4-4917-42e3-afc8-be171dc8ba75",
+      "file_pub": "DAT141.ssf"
+    }
+  },
+  "menu": {
+    "menu_settings": {
+      "file": "menu_settings.ssf",
+      "guid": "7ba68690-a1ab-44e4-be76-f49e6b2204ba",
+      "file_pub": "DAT165.ssf"
+    },
+    "menu_solo": {
+      "file": "menu_solo.ssf",
+      "guid": "d822b974-fe3e-4699-b508-07a2a86fa8b8",
+      "file_pub": "DAT52.ssf"
+    },
+    "menu_backgrounds": {
+      "file": "menu_backgrounds.ssf",
+      "guid": "bab2249e-c28f-42c8-926d-479ec9cbb65f",
+      "file_pub": "DAT366.ssf"
+    },
+    "menu_online": {
+      "file": "menu_online.ssf",
+      "guid": "88b403ca-edd7-4aac-82b2-a716648f6d52",
+      "file_pub": "DAT4.ssf"
+    },
+    "menu_disclaimer": {
+      "file": "menu_disclaimer.ssf",
+      "guid": "13e6bb87-928a-400e-a857-16b548777c4e",
+      "file_pub": "DAT360.ssf"
+    },
+    "menu_main": {
+      "file": "menu_main.ssf",
+      "guid": "8c8d5878-9630-4c56-9b0a-069eccb9fb5a",
+      "file_pub": "DAT55.ssf"
+    },
+    "menu_group": {
+      "file": "menu_group.ssf",
+      "guid": "5a9717f4-e126-44dd-927e-d4f4968541ad",
+      "file_pub": "DAT277.ssf"
+    },
+    "menu_stages": {
+      "file": "menu_stages.ssf",
+      "guid": "ed368e28-7801-45a8-9d55-978f805007ab",
+      "file_pub": "DAT22.ssf"
+    },
+    "menu_characters": {
+      "file": "menu_characters.ssf",
+      "guid": "cdf5fc26-48fa-4f20-9279-e01e4cea0fe2",
+      "file_pub": "DAT235.ssf"
+    }
+  },
+  "music":{  
+
+  },
+  "metadata":{  
+
+  },
+  "character":{  
+
+  },
+  "character_xp":{  
+  },
+  "stage":{  
+
+  },
+  "stage_xp":{  
+  },
+  "extra":{  
+  }
+}

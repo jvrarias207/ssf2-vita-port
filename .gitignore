@@ -1,0 +1,18 @@
+﻿# Large binary files
+*.vpk
+*.pcm
+*.swf
+*.zip
+*.flv
+
+# Build artifacts
+*.o
+*.exe
+*.obj
+
+# Toolchain
+toolchain/
+
+# Temporary folders
+ux0_data_*/
+SSF2-audio-transfer/

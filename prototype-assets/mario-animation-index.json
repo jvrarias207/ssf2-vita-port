@@ -1,0 +1,674 @@
+[
+  {
+    "name": "mario_fla.Hurts_72",
+    "symbolId": 1204,
+    "frameCount": 80,
+    "labels": [
+      "hurt1",
+      "done1",
+      "hurt2",
+      "done2",
+      "hurt3",
+      "done3",
+      "downed",
+      "shock",
+      "ball",
+      "faint",
+      "faintDone",
+      "spin"
+    ]
+  },
+  {
+    "name": "mario_fla.Jab_23",
+    "symbolId": 1114,
+    "frameCount": 30,
+    "labels": [
+      "begin",
+      "hit2",
+      "hit3"
+    ]
+  },
+  {
+    "name": "mario_fla.Fall_19",
+    "symbolId": 1106,
+    "frameCount": 14,
+    "labels": [
+      "again"
+    ]
+  },
+  {
+    "name": "mario_fla.DoubleJump_18",
+    "symbolId": 1105,
+    "frameCount": 49,
+    "labels": [
+      "backflip"
+    ]
+  },
+  {
+    "name": "mario_fla.Jump_17",
+    "symbolId": 1104,
+    "frameCount": 51,
+    "labels": [
+      "jump",
+      "backflip"
+    ]
+  },
+  {
+    "name": "mario_fla.Walk_14",
+    "symbolId": 1101,
+    "frameCount": 20,
+    "labels": []
+  },
+  {
+    "name": "mario_fla.Idle_3",
+    "symbolId": 1050,
+    "frameCount": 68,
+    "labels": [
+      "loop",
+      "wait1",
+      "uncrouch"
+    ]
+  },
+  {
+    "name": "mario_fla.SentFlying_77",
+    "symbolId": 1208,
+    "frameCount": 8,
+    "labels": []
+  },
+  {
+    "name": "mario_fla.TumbleFall_87",
+    "symbolId": 1220,
+    "frameCount": 20,
+    "labels": []
+  },
+  {
+    "name": "mario_fla.GetUp_88",
+    "symbolId": 1221,
+    "frameCount": 50,
+    "labels": [
+      "bounce",
+      "dead",
+      "getup",
+      "done",
+      "standloop",
+      "die",
+      "collapse"
+    ]
+  },
+  {
+    "name": "mario_fla.FTilt_25",
+    "symbolId": 1116,
+    "frameCount": 14,
+    "labels": []
+  },
+  {
+    "name": "mario_fla.UTilt_30",
+    "symbolId": 1119,
+    "frameCount": 14,
+    "labels": []
+  },
+  {
+    "name": "mario_fla.DTilt_70",
+    "symbolId": 1199,
+    "frameCount": 16,
+    "labels": []
+  },
+  {
+    "name": "mario_fla.FSmash_26",
+    "symbolId": 1117,
+    "frameCount": 65,
+    "labels": [
+      "charging",
+      "attack"
+    ]
+  },
+  {
+    "name": "mario_fla.USmash_29",
+    "symbolId": 1118,
+    "frameCount": 66,
+    "labels": [
+      "charging",
+      "attack"
+    ]
+  },
+  {
+    "name": "mario_fla.DSmash_31",
+    "symbolId": 1120,
+    "frameCount": 65,
+    "labels": [
+      "charging",
+      "attack"
+    ]
+  },
+  {
+    "name": "mario_fla.NAir_40",
+    "symbolId": 1154,
+    "frameCount": 26,
+    "labels": [
+      "continue"
+    ]
+  },
+  {
+    "name": "mario_fla.FAir_42",
+    "symbolId": 1156,
+    "frameCount": 38,
+    "labels": [
+      "continue"
+    ]
+  },
+  {
+    "name": "mario_fla.BAir_43",
+    "symbolId": 1157,
+    "frameCount": 29,
+    "labels": [
+      "continue"
+    ]
+  },
+  {
+    "name": "mario_fla.UAir_41",
+    "symbolId": 1155,
+    "frameCount": 21,
+    "labels": [
+      "continue"
+    ]
+  },
+  {
+    "name": "mario_fla.DAir_44",
+    "symbolId": 1158,
+    "frameCount": 27,
+    "labels": [
+      "continue"
+    ]
+  },
+  {
+    "name": "mario_fla.Run_1102",
+    "sourceClass": "mario_fla.Turn_15",
+    "svgFolder": "DefineSprite_1102_mario_fla.Turn_15",
+    "svgUsesSourceFrames": true,
+    "symbolId": 1102,
+    "frameCount": 15,
+    "frameRange": [
+      1,
+      15
+    ],
+    "labels": []
+  },
+  {
+    "name": "mario_fla.Turn_1102",
+    "sourceClass": "mario_fla.Turn_15",
+    "svgFolder": "DefineSprite_1102_mario_fla.Turn_15",
+    "svgUsesSourceFrames": true,
+    "symbolId": 1102,
+    "frameCount": 10,
+    "frameRange": [
+      22,
+      31
+    ],
+    "labels": []
+  },
+  {
+    "name": "mario_fla.Skid_1103",
+    "sourceClass": "mario_fla.Skid_16",
+    "symbolId": 1103,
+    "frameCount": 7,
+    "labels": []
+  },
+  {
+    "name": "mario_fla.Land_1108",
+    "sourceClass": "mario_fla.Land_21",
+    "symbolId": 1108,
+    "frameCount": 8,
+    "labels": []
+  },
+  {
+    "name": "mario_fla.Dash_1102",
+    "sourceClass": "mario_fla.Turn_15",
+    "svgFolder": "DefineSprite_1102_mario_fla.Turn_15",
+    "svgUsesSourceFrames": true,
+    "symbolId": 1102,
+    "frameCount": 6,
+    "frameRange": [
+      16,
+      21
+    ],
+    "labels": []
+  },
+  {
+    "name": "mario_fla.Crouch_1198",
+    "sourceClass": "mario_fla.Crouch_69",
+    "symbolId": 1198,
+    "frameCount": 5,
+    "svgFolder": "DefineSprite_1198_mario_fla.Crouch_69",
+    "svgUsesSourceFrames": true,
+    "labels": []
+  },
+  {
+    "name": "mario_fla.Uncrouch_1050",
+    "sourceClass": "mario_fla.Idle_3",
+    "symbolId": 1050,
+    "frameCount": 4,
+    "svgFolder": "DefineSprite_1050_mario_fla.Idle_3",
+    "svgUsesSourceFrames": true,
+    "labels": [],
+    "frameRange": [
+      65,
+      68
+    ]
+  },
+  {
+    "name": "mario_fla.Shield_1213",
+    "sourceClass": "mario_fla.Guard_82",
+    "symbolId": 1213,
+    "frameCount": 4,
+    "svgFolder": "DefineSprite_1213_mario_fla.Guard_82",
+    "svgUsesSourceFrames": true,
+    "labels": [],
+    "frameRange": [
+      1,
+      4
+    ]
+  },
+  {
+    "name": "mario_fla.ShieldDrop_1213",
+    "sourceClass": "mario_fla.Guard_82",
+    "symbolId": 1213,
+    "frameCount": 6,
+    "svgFolder": "DefineSprite_1213_mario_fla.Guard_82",
+    "svgUsesSourceFrames": true,
+    "labels": [],
+    "frameRange": [
+      5,
+      10
+    ]
+  },
+  {
+    "name": "mario_fla.NSpecial_1121",
+    "sourceClass": "mario_fla.NSpecial_32",
+    "symbolId": 1121,
+    "frameCount": 18,
+    "svgFolder": "DefineSprite_1121_mario_fla.NSpecial_32",
+    "svgUsesSourceFrames": true,
+    "labels": []
+  },
+  {
+    "name": "mario_fla.NSpecialAir_1122",
+    "sourceClass": "mario_fla.NSpecialAir_33",
+    "symbolId": 1122,
+    "frameCount": 18,
+    "svgFolder": "DefineSprite_1122_mario_fla.NSpecialAir_33",
+    "svgUsesSourceFrames": true,
+    "labels": []
+  },
+  {
+    "name": "mario_fla.SSpecial_1139",
+    "sourceClass": "mario_fla.SSpecial_36",
+    "symbolId": 1139,
+    "frameCount": 19,
+    "svgFolder": "DefineSprite_1139_mario_fla.SSpecial_36",
+    "svgUsesSourceFrames": true,
+    "labels": []
+  },
+  {
+    "name": "mario_fla.SSpecialAir_1147",
+    "sourceClass": "mario_fla.SSpecialAir_37",
+    "symbolId": 1147,
+    "frameCount": 19,
+    "svgFolder": "DefineSprite_1147_mario_fla.SSpecialAir_37",
+    "svgUsesSourceFrames": true,
+    "labels": []
+  },
+  {
+    "name": "mario_fla.USpecial_1123",
+    "sourceClass": "mario_fla.USpecial_34",
+    "symbolId": 1123,
+    "frameCount": 22,
+    "svgFolder": "DefineSprite_1123_mario_fla.USpecial_34",
+    "svgUsesSourceFrames": true,
+    "labels": []
+  },
+  {
+    "name": "mario_fla.USpecialAir_1124",
+    "sourceClass": "mario_fla.USpecialAir_35",
+    "symbolId": 1124,
+    "frameCount": 22,
+    "svgFolder": "DefineSprite_1124_mario_fla.USpecialAir_35",
+    "svgUsesSourceFrames": true,
+    "labels": []
+  },
+  {
+    "name": "mario_fla.DSpecial_1153",
+    "sourceClass": "mario_fla.DSpecial_38",
+    "symbolId": 1153,
+    "frameCount": 33,
+    "svgFolder": "DefineSprite_1153_mario_fla.DSpecial_38",
+    "svgUsesSourceFrames": true,
+    "labels": []
+  },
+  {
+    "name": "mario_fla.Helpless_1107",
+    "sourceClass": "mario_fla.SpecialFall_20",
+    "symbolId": 1107,
+    "frameCount": 3,
+    "svgFolder": "DefineSprite_1107_mario_fla.SpecialFall_20",
+    "svgUsesSourceFrames": true,
+    "labels": []
+  },
+  {
+    "name": "mario_fla.SpecialLand_1109",
+    "sourceClass": "mario_fla.SpecialLand_22",
+    "symbolId": 1109,
+    "frameCount": 16,
+    "svgFolder": "DefineSprite_1109_mario_fla.SpecialLand_22",
+    "svgUsesSourceFrames": true,
+    "labels": []
+  },
+  {
+    "name": "mario_fla.Dizzy_1218",
+    "sourceClass": "mario_fla.Dizzy_83",
+    "symbolId": 1218,
+    "frameCount": 38,
+    "svgFolder": "DefineSprite_1218_mario_fla.Dizzy_83",
+    "svgUsesSourceFrames": true,
+    "labels": []
+  },
+  {
+    "name": "mario_fla.Fireball_220",
+    "sourceClass": "mario_fla.mario_fireball_mc_219",
+    "symbolId": 220,
+    "frameCount": 20,
+    "svgFolder": "DefineSprite_220_mario_fla.mario_fireball_mc_219",
+    "svgUsesSourceFrames": true,
+    "labels": [],
+    "matrix": [
+      0.8899994,
+      0,
+      0,
+      0.8899994,
+      -7.5,
+      9.15
+    ]
+  },
+  {
+    "name": "mario_fla.Grab_1200",
+    "sourceClass": "mario_fla.Grab_Pummel_71",
+    "symbolId": 1200,
+    "frameCount": 16,
+    "svgFolder": "DefineSprite_1200_mario_fla.Grab_Pummel_71",
+    "svgUsesSourceFrames": true,
+    "labels": [],
+    "frameRange": [
+      1,
+      16
+    ]
+  },
+  {
+    "name": "mario_fla.DashGrab_1200",
+    "sourceClass": "mario_fla.Grab_Pummel_71",
+    "symbolId": 1200,
+    "frameCount": 21,
+    "svgFolder": "DefineSprite_1200_mario_fla.Grab_Pummel_71",
+    "svgUsesSourceFrames": true,
+    "labels": [],
+    "frameRange": [
+      17,
+      37
+    ]
+  },
+  {
+    "name": "mario_fla.GrabHold_1200",
+    "sourceClass": "mario_fla.Grab_Pummel_71",
+    "symbolId": 1200,
+    "frameCount": 3,
+    "svgFolder": "DefineSprite_1200_mario_fla.Grab_Pummel_71",
+    "svgUsesSourceFrames": true,
+    "labels": [],
+    "frameRange": [
+      38,
+      40
+    ]
+  },
+  {
+    "name": "mario_fla.Pummel_1200",
+    "sourceClass": "mario_fla.Grab_Pummel_71",
+    "symbolId": 1200,
+    "frameCount": 11,
+    "svgFolder": "DefineSprite_1200_mario_fla.Grab_Pummel_71",
+    "svgUsesSourceFrames": true,
+    "labels": [],
+    "frameRange": [
+      41,
+      51
+    ]
+  },
+  {
+    "name": "mario_fla.Caught_1204",
+    "sourceClass": "mario_fla.Hurts_72",
+    "symbolId": 1204,
+    "frameCount": 10,
+    "svgFolder": "DefineSprite_1204_mario_fla.Hurts_72",
+    "svgUsesSourceFrames": true,
+    "labels": [],
+    "frameRange": [
+      1,
+      10
+    ]
+  },
+  {
+    "name": "mario_fla.FThrow_1160",
+    "sourceClass": "mario_fla.FThrow_46",
+    "symbolId": 1160,
+    "frameCount": 15,
+    "svgFolder": "DefineSprite_1160_mario_fla.FThrow_46",
+    "svgUsesSourceFrames": true,
+    "labels": []
+  },
+  {
+    "name": "mario_fla.BThrow_1162",
+    "sourceClass": "mario_fla.BThrow_48",
+    "symbolId": 1162,
+    "frameCount": 33,
+    "svgFolder": "DefineSprite_1162_mario_fla.BThrow_48",
+    "svgUsesSourceFrames": true,
+    "labels": []
+  },
+  {
+    "name": "mario_fla.UThrow_1159",
+    "sourceClass": "mario_fla.UThrow_45",
+    "symbolId": 1159,
+    "frameCount": 22,
+    "svgFolder": "DefineSprite_1159_mario_fla.UThrow_45",
+    "svgUsesSourceFrames": true,
+    "labels": []
+  },
+  {
+    "name": "mario_fla.DThrow_1161",
+    "sourceClass": "mario_fla.DThrow_47",
+    "symbolId": 1161,
+    "frameCount": 21,
+    "svgFolder": "DefineSprite_1161_mario_fla.DThrow_47",
+    "svgUsesSourceFrames": true,
+    "labels": []
+  },
+  {
+    "name": "mario_fla.DashAttack_1115",
+    "sourceClass": "mario_fla.DashAttack_24",
+    "symbolId": 1115,
+    "frameCount": 20,
+    "svgFolder": "DefineSprite_1115_mario_fla.DashAttack_24",
+    "svgUsesSourceFrames": true,
+    "labels": []
+  },
+  {
+    "name": "mario_fla.Hang_1209",
+    "sourceClass": "mario_fla.Hang_78",
+    "symbolId": 1209,
+    "frameCount": 7,
+    "svgFolder": "DefineSprite_1209_mario_fla.Hang_78",
+    "svgUsesSourceFrames": true,
+    "labels": []
+  },
+  {
+    "name": "mario_fla.HangClimb_1210",
+    "sourceClass": "mario_fla.HangClimb_79",
+    "symbolId": 1210,
+    "frameCount": 17,
+    "svgFolder": "DefineSprite_1210_mario_fla.HangClimb_79",
+    "svgUsesSourceFrames": true,
+    "labels": []
+  },
+  {
+    "name": "mario_fla.HangRoll_1211",
+    "sourceClass": "mario_fla.HangRoll_80",
+    "symbolId": 1211,
+    "frameCount": 25,
+    "svgFolder": "DefineSprite_1211_mario_fla.HangRoll_80",
+    "svgUsesSourceFrames": true,
+    "labels": []
+  },
+  {
+    "name": "mario_fla.HangAttack_1212",
+    "sourceClass": "mario_fla.HangAttack_81",
+    "symbolId": 1212,
+    "frameCount": 25,
+    "svgFolder": "DefineSprite_1212_mario_fla.HangAttack_81",
+    "svgUsesSourceFrames": true,
+    "labels": []
+  },
+  {
+    "name": "mario_fla.GetUpRoll_1222",
+    "sourceClass": "mario_fla.GetUpRoll_89",
+    "symbolId": 1222,
+    "frameCount": 18,
+    "svgFolder": "DefineSprite_1222_mario_fla.GetUpRoll_89",
+    "svgUsesSourceFrames": true,
+    "labels": []
+  },
+  {
+    "name": "mario_fla.GetUpAttack_1223",
+    "sourceClass": "mario_fla.GetUpAttack_90",
+    "symbolId": 1223,
+    "frameCount": 25,
+    "svgFolder": "DefineSprite_1223_mario_fla.GetUpAttack_90",
+    "svgUsesSourceFrames": true,
+    "labels": []
+  },
+  {
+    "name": "mario_fla.DodgeRoll_1205",
+    "sourceClass": "mario_fla.Roll_74",
+    "symbolId": 1205,
+    "frameCount": 16,
+    "svgFolder": "DefineSprite_1205_mario_fla.Roll_74",
+    "svgUsesSourceFrames": true,
+    "labels": []
+  },
+  {
+    "name": "mario_fla.SpotDodge_1207",
+    "sourceClass": "mario_fla.SpotDodge_76",
+    "symbolId": 1207,
+    "frameCount": 14,
+    "svgFolder": "DefineSprite_1207_mario_fla.SpotDodge_76",
+    "svgUsesSourceFrames": true,
+    "labels": []
+  },
+  {
+    "name": "mario_fla.AirDodge_1206",
+    "sourceClass": "mario_fla.AirDodge_75",
+    "symbolId": 1206,
+    "frameCount": 25,
+    "svgFolder": "DefineSprite_1206_mario_fla.AirDodge_75",
+    "svgUsesSourceFrames": true,
+    "labels": []
+  },
+  {
+    "name": "mario_fla.TechGround_1480",
+    "sourceClass": "mario_fla.TechGround_212",
+    "symbolId": 1480,
+    "frameCount": 14,
+    "svgFolder": "DefineSprite_1480_mario_fla.TechGround_212",
+    "svgUsesSourceFrames": true,
+    "labels": []
+  },
+  {
+    "name": "mario_fla.TechRoll_1481",
+    "sourceClass": "mario_fla.TechRoll_213",
+    "symbolId": 1481,
+    "frameCount": 21,
+    "svgFolder": "DefineSprite_1481_mario_fla.TechRoll_213",
+    "svgUsesSourceFrames": true,
+    "labels": []
+  },
+  {
+    "name": "mario_fla.EdgeLean_1224",
+    "sourceClass": "mario_fla.EdgeLean_91",
+    "symbolId": 1224,
+    "frameCount": 43,
+    "svgFolder": "DefineSprite_1224_mario_fla.EdgeLean_91",
+    "svgUsesSourceFrames": true,
+    "labels": []
+  },
+  {
+    "name": "mario_fla.TauntSide_1233",
+    "sourceClass": "mario_fla.Taunts_94",
+    "symbolId": 1233,
+    "frameCount": 42,
+    "svgFolder": "DefineSprite_1233_mario_fla.Taunts_94",
+    "svgUsesSourceFrames": true,
+    "labels": [],
+    "frameRange": [
+      1,
+      42
+    ]
+  },
+  {
+    "name": "mario_fla.TauntNeutral_1233",
+    "sourceClass": "mario_fla.Taunts_94",
+    "symbolId": 1233,
+    "frameCount": 73,
+    "svgFolder": "DefineSprite_1233_mario_fla.Taunts_94",
+    "svgUsesSourceFrames": true,
+    "labels": [],
+    "frameRange": [
+      43,
+      115
+    ]
+  },
+  {
+    "name": "mario_fla.TauntUpDown_1233",
+    "sourceClass": "mario_fla.Taunts_94",
+    "symbolId": 1233,
+    "frameCount": 46,
+    "svgFolder": "DefineSprite_1233_mario_fla.Taunts_94",
+    "svgUsesSourceFrames": true,
+    "labels": [],
+    "frameRange": [
+      116,
+      161
+    ]
+  },
+  {
+    "name": "mario_fla.DodgeLand_1108",
+    "sourceClass": "mario_fla.Land_21",
+    "symbolId": 1108,
+    "frameCount": 5,
+    "svgFolder": "DefineSprite_1108_mario_fla.Land_21",
+    "svgUsesSourceFrames": true,
+    "labels": [],
+    "frameRange": [
+      4,
+      8
+    ]
+  },
+  {
+    "name": "mario_fla.CaughtSpin_1204",
+    "sourceClass": "mario_fla.Hurts_72",
+    "symbolId": 1204,
+    "frameCount": 10,
+    "svgFolder": "DefineSprite_1204_mario_fla.Hurts_72",
+    "svgUsesSourceFrames": true,
+    "labels": [],
+    "frameRange": [
+      71,
+      80
+    ]
+  }
+]

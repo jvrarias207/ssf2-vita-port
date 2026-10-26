@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:ffdec="https://www.free-decompiler.com/flash" xmlns:xlink="http://www.w3.org/1999/xlink" ffdec:objectType="frame" height="61.9px" width="97.1px" xmlns="http://www.w3.org/2000/svg">
+  <g transform="matrix(1.0, 0.0, 0.0, 1.0, 31.25, 1.5)">
+    <use ffdec:characterId="674" ffdec:characterName="mario_an12" height="48.0" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="49.0" xlink:href="#tag0"/>
+    <use ffdec:characterId="1049" height="21.9" id="itemBox" transform="matrix(0.7262, 0.6807, -0.6807, 0.7262, 10.4, 25.45)" width="3.7" xlink:href="#sprite0"/>
+    <use ffdec:characterId="138" ffdec:characterName="mario_fla.CollisonBox_6" height="50.0" id="hitBox" transform="matrix(0.3403, 0.0, 0.0, 0.3196, 27.25, 12.85)" width="50.0" xlink:href="#sprite2"/>
+    <use ffdec:characterId="138" ffdec:characterName="mario_fla.CollisonBox_6" height="50.0" id="hitBox2" transform="matrix(0.3042, 0.0, 0.0, 0.5684, 20.5, 33.05)" width="50.0" xlink:href="#sprite2"/>
+    <use ffdec:characterId="138" ffdec:characterName="mario_fla.CollisonBox_6" height="50.0" id="hitBox3" transform="matrix(0.1038, 0.0, 0.0, 0.1218, 10.3, 23.2)" width="50.0" xlink:href="#sprite3"/>
+  </g>
+  <defs>
+    <g id="tag0">
+      <pattern height="48" id="PatternID_674_1" overflow="visible" patternTransform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" patternUnits="userSpaceOnUse" viewBox="0 0 49 48" width="49">
+        <image height="48" style="image-rendering:optimizeQuality" width="49" xlink:href="data:image/PNG;base64,iVBORw0KGgoAAAANSUhEUgAAADEAAAAwCAYAAAC4wJK5AAADFElEQVR42u2Yv2sUURSFF2SLkJUNCWQlIHHd4E8wS7CIgiCIzUJEC6tgIQhK1EIkWlluUki0sbIWtLCwVoJNWLAWEf8ExUKERSufnAff4/Kc3UoydyADB9/cWeF8c+59b0ittnftXdW+Fo5NhiJVyvTBm/NRRx8fT5q93PIDUvSGZTA3vvhqKYmanpcOYt805jAPgOrrXx5G5RA/3j/yAaG3bo1hFOPWfJ7Ch/ULPiBIwRrM2yd/5gbAQuRDO0r8lqF2AXGo8e8gqybZGsateV5A6SAy2201kynd/3m7FX4+XwsAFskOvVQqCBCSBdg4dzLs3F8JJyYmw6UjzXhfr9ejXB18tI0AZBQImbcQeq51v98P+/f1EoyLQ06mZf7B0lSUhQCAZ0pnMBjIePydm08LkpBJwdBSMmxbSXXVhsNhqF3d9gWRt5Qk42olmZYEoXRsQnrO/3MDIuNIJgHAvMQc2Lp+6wJkqtkOc50rUaQAiDULhNbU2YZdvH0EEG1DIhIQgLAN7wpEpz0dkDV/baIRvrU7SbpX/fDptQgigzYVC8E87BrAvdtnwq/fXxPI5sxM2G7NRQGgteqAdHtPYyrWbClngwzL/OePbxLA6xer8V9rGuN2rSSUiEBK63cAME0iElD5PAAhyTxplAqRm8/BilKQlBAQpadhYWwiEltqbl5isKXw/W54cuOAjwPNAujNWqMyqXtbo5U+vVz2A5EfbpiWWQnjtBBA+m3p7TQOAtPnb71LEFpLgLmYiXGfGWoTjKptaCVqrF1CAKI3bluHVqLuZncaB2FnAfM5gOskbFvZYcY4a9cARUMu8wy5651pVBqYZ2eqHABbK4lo7R4Cg/bAY81wA+gOZLbZCBLbKynYTw27rbob7OWF6QhwsTufICS+m+znh03JHcTW6qlwp7cYxTnBLNBi9o8GLiF2NlYigNIgEWDsjuT64480BEAiFsaKFnO5QwkEiGfXz0ZpzdDnKbmFAMRC6N5C2JrLc4L5yNsKCGqVAWFGZHTUzLiFsK0l5TXBCJJZqVXxKgL839dfU/VxMtJOARIAAAAASUVORK5CYII="/>
+      </pattern>
+      <path d="M0.0 0.0 L0.0 48.0 49.0 48.0 49.0 0.0 0.0 0.0" ffdec:fill-bitmapId="674" fill-rule="evenodd" style="fill:url(#PatternID_674_1)"/>
+    </g>
+    <g id="sprite0">
+      <use ffdec:characterId="1048" ffdec:characterName="mario_fla.itemPlaceholder_mc_5" height="21.9" transform="matrix(1.0, 0.0, 0.0, 1.0, -1.45, -20.95)" width="3.7" xlink:href="#sprite1"/>
+    </g>
+    <g id="sprite1">
+      <use ffdec:characterId="1047" height="21.9" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="3.7" xlink:href="#shape0"/>
+    </g>
+    <g id="shape0">
+      <path d="M0.0 20.9 L0.0 0.0 2.7 0.0 2.7 20.9 0.0 20.9" fill="#006600" fill-opacity="0.5372549" fill-rule="evenodd" stroke="none"/>
+      <path d="M0.0 20.9 L0.0 0.0 2.7 0.0 2.7 20.9 0.0 20.9 Z" ffdec:has-small-stroke="true" ffdec:original-stroke-width="1.0" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.6" stroke-width="1.0046690298839696"/>
+    </g>
+    <g id="sprite2">
+      <use ffdec:characterId="137" height="50.0" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="50.0" xlink:href="#shape1"/>
+    </g>
+    <g id="shape1">
+      <path d="M25.0 -25.0 L25.0 25.0 -25.0 25.0 -25.0 -25.0 25.0 -25.0" fill="#956626" fill-opacity="0.0" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="sprite3">
+      <use ffdec:characterId="137" height="50.0" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="50.0" xlink:href="#shape2"/>
+    </g>
+    <g id="shape2">
+      <path d="M25.0 -25.0 L25.0 25.0 -25.0 25.0 -25.0 -25.0 25.0 -25.0" fill="#956626" fill-opacity="0.0" fill-rule="evenodd" stroke="none"/>
+    </g>
+  </defs>
+</svg>

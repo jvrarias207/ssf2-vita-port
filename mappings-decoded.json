@@ -1,0 +1,2049 @@
+{
+  "character_xp": {},
+  "character": {
+    "lucario": {
+      "file": "lucario.ssf",
+      "name": "Lucario",
+      "guid": "26d57abe-4f5b-11e7-b114-b2f933d5fe66",
+      "seriesIcon": "PokemonSymbol",
+      "file_pub": "DAT59.ssf"
+    },
+    "megaman": {
+      "file": "megaman.ssf",
+      "name": "Mega Man",
+      "guid": "716b3fa7-a83b-42fe-b781-3ac8f0063fd6",
+      "seriesIcon": "mmicon",
+      "file_pub": "DAT269.ssf"
+    },
+    "ryu": {
+      "file": "ryu.ssf",
+      "name": "Ryu",
+      "guid": "463576b7-b84b-4a6c-a683-48b44a2162be",
+      "seriesIcon": "streetfighter_icon",
+      "file_pub": "DAT112.ssf"
+    },
+    "marth": {
+      "file": "marth.ssf",
+      "name": "Marth",
+      "guid": "9f391931-db1b-47a9-82b1-2c1d2560c6b7",
+      "seriesIcon": "marth_seriesIcon",
+      "file_pub": "DAT106.ssf"
+    },
+    "waluigi": {
+      "file": "waluigi.ssf",
+      "name": "Waluigi",
+      "guid": "9cd4153e-080d-49a7-8be6-b415c735cab7",
+      "seriesIcon": "MarioSymbol",
+      "file_pub": "DAT170.ssf"
+    },
+    "mario": {
+      "file": "mario.ssf",
+      "name": "Mario",
+      "guid": "b4768513-c851-4f19-8c73-6f18e4f27b64",
+      "seriesIcon": "MarioSymbol",
+      "file_pub": "DAT357.ssf"
+    },
+    "simon": {
+      "file": "simon.ssf",
+      "name": "Simon",
+      "guid": "0ff43725-06ab-4c74-9637-8467b9f3c286",
+      "seriesIcon": "castlevania_icon",
+      "file_pub": "DAT333.ssf"
+    },
+    "luigi": {
+      "file": "luigi.ssf",
+      "name": "Luigi",
+      "guid": "e82c96ad-4f9d-4baa-b201-4e25cc248939",
+      "seriesIcon": "MarioSymbol",
+      "file_pub": "DAT118.ssf"
+    },
+    "rayman": {
+      "file": "rayman.ssf",
+      "name": "Rayman",
+      "guid": "95ccbf99-c6ca-4f42-888a-4f3c141be003",
+      "seriesIcon": "rayman_icon",
+      "file_pub": "DAT87.ssf"
+    },
+    "donkeykong": {
+      "file": "donkeykong.ssf",
+      "name": "Donkey Kong",
+      "guid": "1c0a5cc2-123d-415f-8c2b-44031b295965",
+      "seriesIcon": "dkicon",
+      "file_pub": "DAT114.ssf"
+    },
+    "luffy": {
+      "file": "luffy.ssf",
+      "name": "Luffy",
+      "guid": "06bb35e1-a906-4c35-a226-90fc885c8bf6",
+      "seriesIcon": "luffy_icon",
+      "file_pub": "DAT0.ssf"
+    },
+    "krystal": {
+      "file": "krystal.ssf",
+      "name": "Krystal",
+      "guid": "26a0a3ce-7a50-11e6-8b77-86f30ca893d3",
+      "seriesIcon": "Starfox_Symbol",
+      "file_pub": "DAT110.ssf"
+    },
+    "chibirobo": {
+      "file": "chibirobo.ssf",
+      "name": "Chibi-Robo",
+      "guid": "c51a5173-a652-4c9a-9410-87b46e9702c3",
+      "seriesIcon": "chibi_icon",
+      "file_pub": "DAT11.ssf"
+    },
+    "jigglypuff": {
+      "file": "jigglypuff.ssf",
+      "name": "Jigglypuff",
+      "guid": "8fb252a6-b3fe-4572-8424-cc5f0f89f54e",
+      "seriesIcon": "PokemonSymbol",
+      "file_pub": "DAT124.ssf"
+    },
+    "sheik": {
+      "file": "zelda.ssf",
+      "name": "Sheik",
+      "guid": "68019ba3-5e17-4104-9a4c-3f9b8e4b3fe8",
+      "seriesIcon": "zeldaicon",
+      "file_pub": "DAT240.ssf"
+    },
+    "bowser": {
+      "file": "bowser.ssf",
+      "name": "Bowser",
+      "guid": "5aaef56e-4ee3-4586-b2f8-c38985e8f457",
+      "seriesIcon": "MarioSymbol",
+      "file_pub": "DAT222.ssf"
+    },
+    "lloyd": {
+      "file": "lloyd.ssf",
+      "name": "Lloyd",
+      "guid": "45af93ac-000a-4b46-b897-f7cc4a79d50b",
+      "seriesIcon": "talesOf",
+      "file_pub": "DAT239.ssf"
+    },
+    "empty1": {},
+    "zelda": {
+      "file": "zelda.ssf",
+      "name": "Zelda",
+      "guid": "68019ba3-5e17-4104-9a4c-3f9b8e4b3fe8",
+      "seriesIcon": "zeldaicon",
+      "file_pub": "DAT240.ssf"
+    },
+    "bomberman": {
+      "file": "bomberman.ssf",
+      "name": "Bomberman",
+      "guid": "5db5bfc3-78aa-4ae8-8208-c39174673a01",
+      "seriesIcon": "Bomberman_Symbol",
+      "file_pub": "DAT69.ssf"
+    },
+    "yoshi": {
+      "file": "yoshi.ssf",
+      "name": "Yoshi",
+      "guid": "cc7f6275-769a-403a-aadf-725696cfbc79",
+      "seriesIcon": "Yoshi_Symbol",
+      "file_pub": "DAT368.ssf"
+    },
+    "blackmage": {
+      "file": "blackmage.ssf",
+      "name": "Black Mage",
+      "guid": "9b58e501-9135-4535-a349-53d9efde8809",
+      "seriesIcon": "bmseries",
+      "file_pub": "DAT359.ssf"
+    },
+    "wario": {
+      "file": "wario.ssf",
+      "name": "Wario",
+      "guid": "e98d84bd-4a2d-4a2a-8440-f38caa78b7d4",
+      "seriesIcon": "warioseries",
+      "file_pub": "DAT7.ssf"
+    },
+    "naruto": {
+      "file": "naruto.ssf",
+      "name": "Naruto",
+      "guid": "d6a9d9ac-29fa-4015-bd40-81e2769db6ae",
+      "seriesIcon": "Narutosymbol",
+      "file_pub": "DAT322.ssf"
+    },
+    "sandbag": {
+      "file": "sandbag.ssf",
+      "name": "Sandbag",
+      "guid": "45222bb7-fb4d-4103-b84e-84ebd27839fa",
+      "seriesIcon": "smash_icon",
+      "file_pub": "DAT151.ssf"
+    },
+    "sora": {
+      "file": "sora.ssf",
+      "name": "Sora",
+      "guid": "57068ce5-ad07-446a-8a80-5a2939219e9f",
+      "seriesIcon": "khicon",
+      "file_pub": "DAT263.ssf"
+    },
+    "ichigo": {
+      "file": "ichigo.ssf",
+      "name": "Ichigo",
+      "guid": "17955b8c-7dff-4167-ada2-b89d5e1562b8",
+      "seriesIcon": "bleach_symbol1",
+      "file_pub": "DAT144.ssf"
+    },
+    "tails": {
+      "file": "tails.ssf",
+      "name": "Tails",
+      "guid": "d83b1ca4-568d-44e9-9de3-d850b54b1643",
+      "seriesIcon": "sonic_symbol1",
+      "file_pub": "DAT64.ssf"
+    },
+    "empty3": {},
+    "goku": {
+      "file": "goku.ssf",
+      "name": "Goku",
+      "guid": "5652e175-9647-4342-a726-105cb4fab89a",
+      "seriesIcon": "DragonBallsign",
+      "file_pub": "DAT278.ssf"
+    },
+    "gameandwatch": {
+      "file": "gameandwatch.ssf",
+      "name": "Mr. Game & Watch",
+      "guid": "65319743-bb44-4f70-87ce-cee7a2551a18",
+      "seriesIcon": "gameandwatch_icon",
+      "file_pub": "DAT99.ssf"
+    },
+    "zamus": {
+      "file": "zamus.ssf",
+      "name": "Zero Suit Samus",
+      "guid": "1ce8dafd-54ea-480a-a2d0-30c1e6db4dbf",
+      "seriesIcon": "MetroidSymbolCSS",
+      "file_pub": "DAT316.ssf"
+    },
+    "isaac": {
+      "file": "isaac.ssf",
+      "name": "Isaac",
+      "guid": "52250ee5-0349-4ba7-ad59-09f44465291e",
+      "seriesIcon": "isaac_icon",
+      "file_pub": "DAT173.ssf"
+    },
+    "samus": {
+      "file": "samus.ssf",
+      "name": "Samus",
+      "guid": "abad854d-8167-43a7-96a8-d0a666a8ffd3",
+      "seriesIcon": "MetroidSymbolCSS",
+      "file_pub": "DAT323.ssf"
+    },
+    "pichu": {
+      "file": "pichu.ssf",
+      "name": "Pichu",
+      "guid": "159ee7d0-2fa9-486b-be61-1fb64af3c775",
+      "seriesIcon": "PokemonSymbol",
+      "file_pub": "DAT353.ssf"
+    },
+    "sonic": {
+      "file": "sonic.ssf",
+      "name": "Sonic",
+      "guid": "7b84c137-a56c-4db9-b154-154c9da71076",
+      "seriesIcon": "sonic_symbol1",
+      "file_pub": "DAT35.ssf"
+    },
+    "pit": {
+      "file": "pit.ssf",
+      "name": "Pit",
+      "guid": "281bcdc7-b7cb-4af3-b27d-741cd94ec033",
+      "seriesIcon": "piticon",
+      "file_pub": "DAT199.ssf"
+    },
+    "fox": {
+      "file": "fox.ssf",
+      "name": "Fox",
+      "guid": "f207f49e-ebb8-462c-a8be-0d5b7aced723",
+      "seriesIcon": "Starfox_Symbol",
+      "file_pub": "DAT325.ssf"
+    },
+    "obama": {
+      "file": "presidentobama.ssf",
+      "name": "President Barack Obama",
+      "guid": "9e4073ca-1ba9-118a-72ec-afd6ec50ea12",
+      "seriesIcon": "questionicon"
+    },
+    "pikachu": {
+      "file": "pikachu.ssf",
+      "name": "Pikachu",
+      "guid": "946e3554-6365-4321-8a04-aeac03dba42a",
+      "seriesIcon": "PokemonSymbol",
+      "file_pub": "DAT362.ssf"
+    },
+    "falco": {
+      "file": "falco.ssf",
+      "name": "Falco",
+      "guid": "9b96dbd7-b8d2-4127-90ca-509ee15e2cdc",
+      "seriesIcon": "Starfox_Symbol",
+      "file_pub": "DAT198.ssf"
+    },
+    "bandanadee": {
+      "file": "bandanadee.ssf",
+      "name": "Bandana Dee",
+      "guid": "d445439f-d1bc-4b9e-be8b-cb156f498f38",
+      "seriesIcon": "Kirby_Symbol",
+      "file_pub": "DAT282.ssf"
+    },
+    "peach": {
+      "file": "peach.ssf",
+      "name": "Peach",
+      "guid": "e7a05f86-e27b-4066-a4eb-447866207179",
+      "seriesIcon": "MarioSymbol",
+      "file_pub": "DAT267.ssf"
+    },
+    "captainfalcon": {
+      "file": "captainfalcon.ssf",
+      "name": "Captain Falcon",
+      "guid": "addc9f5b-48d8-49df-9b23-e53d64c0c65e",
+      "seriesIcon": "fzero",
+      "file_pub": "DAT96.ssf"
+    },
+    "pacman": {
+      "file": "pacman.ssf",
+      "name": "PAC-MAN",
+      "guid": "7bf0a5ef-e130-4a6a-9fa0-abfa59109cc4",
+      "seriesIcon": "pacmanicon",
+      "file_pub": "DAT374.ssf"
+    },
+    "empty2": {},
+    "kirby": {
+      "file": "kirby.ssf",
+      "name": "Kirby",
+      "guid": "5f670bf6-edee-4bbf-b247-3a51d5ebddd3",
+      "seriesIcon": "Kirby_Symbol",
+      "file_pub": "DAT117.ssf"
+    },
+    "masterhand": {
+      "file": "masterhand.ssf",
+      "guid": "e036de98-6d26-4df9-9b7f-a8db69206e30",
+      "file_pub": "DAT265.ssf"
+    },
+    "link": {
+      "file": "link.ssf",
+      "name": "Link",
+      "guid": "6c4013ee-0672-4264-80e8-a3d63c506a6c",
+      "seriesIcon": "zeldaicon",
+      "file_pub": "DAT370.ssf"
+    },
+    "dedede": {
+      "file": "dedede.ssf",
+      "name": "King Dedede",
+      "guid": "02d29602-d514-4a98-8ac2-6afd498f3323",
+      "seriesIcon": "Kirby_Symbol",
+      "file_pub": "DAT140.ssf"
+    },
+    "ness": {
+      "file": "ness.ssf",
+      "name": "Ness",
+      "guid": "4e1cd2be-4e9d-4fae-8fb9-d81ed2ba93d9",
+      "seriesIcon": "mother_symbol1",
+      "file_pub": "DAT91.ssf"
+    },
+    "ganondorf": {
+      "file": "ganondorf.ssf",
+      "name": "Ganondorf",
+      "guid": "d7fd5abd-a788-4fb1-b4f2-f215f0cd387c",
+      "seriesIcon": "zeldaicon",
+      "file_pub": "DAT230.ssf"
+    },
+    "metaknight": {
+      "file": "metaknight.ssf",
+      "name": "Meta Knight",
+      "guid": "94736651-1a09-4993-a55b-5b96aa402331",
+      "seriesIcon": "Kirby_Symbol",
+      "file_pub": "DAT162.ssf"
+    }
+  },
+  "metadata": {},
+  "stage": {
+    "finaldestination": {
+      "file": "finaldestination.ssf",
+      "name": "Final Destination",
+      "guid": "1fd1576f-0b77-4c6f-9a7d-3fe6ac0e6ce0",
+      "file_pub": "DAT213.ssf"
+    },
+    "smashville": {
+      "file": "smashville.ssf",
+      "name": "Smashville",
+      "guid": "2974ce3a-44de-415f-bc8d-d434f6fe0da2",
+      "file_pub": "DAT372.ssf"
+    },
+    "targettest_wario": {
+      "file": "targettest_wario.ssf",
+      "guid": "e11d0b58-d52a-48c5-ba1f-773cccf072ba",
+      "file_pub": "DAT271.ssf"
+    },
+    "thousandsunny": {
+      "file": "thousandsunny.ssf",
+      "name": "Thousand Sunny",
+      "guid": "42b4fd02-9624-4c47-8b37-2f576cc4c048",
+      "file_pub": "DAT338.ssf"
+    },
+    "kingdom1": {
+      "file": "kingdom1.ssf",
+      "name": "Mushroom Kingdom",
+      "guid": "40eee938-d95d-4133-aaac-29c6013d96a4",
+      "file_pub": "DAT319.ssf"
+    },
+    "meteovoyage": {
+      "file": "meteovoyage.ssf",
+      "name": "Meteo Campaigns",
+      "guid": "b811c48b-97de-4827-b432-414d4baac2f6",
+      "file_pub": "DAT299.ssf"
+    },
+    "mushroomkingdom3": {
+      "file": "mushroomkingdom3.ssf",
+      "name": "Mushroom Kingdom III",
+      "guid": "0838825f-ca19-4452-96d5-6d9beb4d659d",
+      "file_pub": "DAT128.ssf"
+    },
+    "crateria": {
+      "file": "crateria.ssf",
+      "name": "Crateria",
+      "guid": "a84cddaa-14aa-4f83-b4e0-61faa8113c6d",
+      "file_pub": "DAT34.ssf"
+    },
+    "bombfactory": {
+      "file": "bombfactory.ssf",
+      "name": "Bomb Factory",
+      "guid": "1360391f-1a8e-4dc9-9032-7c347dd40a67",
+      "file_pub": "DAT157.ssf"
+    },
+    "palaceoftwilight": {
+      "name": "Palace of Twilight",
+      "file": "palaceoftwilight.ssf",
+      "guid": "887b46af-eeb0-4814-8b38-513d9b885b35",
+      "file_pub": "DAT33.ssf"
+    },
+    "hylianskies": {
+      "file": "hylianskies.ssf",
+      "name": "Hylian Skies",
+      "guid": "0e8bba01-4206-406e-8426-13475d21fa7f",
+      "file_pub": "DAT308.ssf"
+    },
+    "tinystage": {
+      "file": "tinystage.ssf",
+      "name": "Polygon Zone",
+      "guid": "ad34aafc-3b94-11e6-ac61-9e71128cae77",
+      "file_pub": "DAT236.ssf"
+    },
+    "galaxytours": {
+      "file": "galaxytours.ssf",
+      "name": "Galaxy Tours",
+      "guid": "f1eb7f31-1535-4d79-9419-0e904de27eaf",
+      "file_pub": "DAT176.ssf"
+    },
+    "greenhillzone": {
+      "file": "greenhillzone.ssf",
+      "name": "Green Hill Zone",
+      "guid": "84d6e11b-369c-4f8b-9c93-7de59e642d51",
+      "file_pub": "DAT327.ssf"
+    },
+    "flatzoneplus": {
+      "file": "flatzoneplus.ssf",
+      "name": "Flat Zone +",
+      "guid": "096574ef-18ff-4cd2-98b0-a99c08dd30a0",
+      "file_pub": "DAT27.ssf"
+    },
+    "tourian": {
+      "file": "tourian.ssf",
+      "guid": "1a5ca21f-91ef-46b2-b07e-bf9fad1212b0",
+      "file_pub": "DAT29.ssf"
+    },
+    "sandocean": {
+      "file": "sandocean.ssf",
+      "name": "Sand Ocean",
+      "guid": "5c8fc04d-2fc8-4c6b-b26b-4d76fde1c838",
+      "file_pub": "DAT303.ssf"
+    },
+    "snowpointtemple": {
+      "name": "Snowpoint Temple",
+      "file": "snowpointtemple.ssf",
+      "guid": "73978685-1080-4ffe-ab77-027f1ef9c5be",
+      "file_pub": "DAT172.ssf"
+    },
+    "crystalsmash2": {
+      "file": "crystalsmash2.ssf",
+      "name": "Crystal Smash Stage 2",
+      "guid": "bf12a1e6-03b8-4818-9802-6b54b1c816fe",
+      "file_pub": "DAT72.ssf"
+    },
+    "locked3": {},
+    "sectorz": {
+      "file": "sectorz.ssf",
+      "name": "Sector Z",
+      "guid": "84272dba-a44c-4d4b-abe5-0a036419bdc7",
+      "file_pub": "DAT108.ssf"
+    },
+    "towerofsalvation": {
+      "file": "towerofsalvation.ssf",
+      "name": "Tower of Salvation",
+      "guid": "6fb5d183-c213-4f8d-bcf8-832ef8fb9cdf",
+      "file_pub": "DAT126.ssf"
+    },
+    "targettest_captainfalcon": {
+      "file": "targettest_captainfalcon.ssf",
+      "guid": "2cec1040-ba2d-4231-af83-c43a55c6938d",
+      "file_pub": "DAT337.ssf"
+    },
+    "konohavillage": {
+      "file": "konohavillage.ssf",
+      "name": "Hidden Leaf Village",
+      "guid": "398f6974-49ef-4253-8967-50a749e649a1",
+      "file_pub": "DAT249.ssf"
+    },
+    "centralhighway": {
+      "file": "centralhighway.ssf",
+      "name": "Central Highway",
+      "guid": "bd592ce0-ad68-492d-b664-7e914dcaab68",
+      "file_pub": "DAT103.ssf"
+    },
+    "venuslighthouse": {
+      "file": "venuslighthouse.ssf",
+      "name": "Venus Lighthouse",
+      "guid": "48b680ca-7a0c-432e-a79c-68daa82532ff",
+      "file_pub": "DAT201.ssf"
+    },
+    "targettest_megaman": {
+      "file": "targettest_megaman.ssf",
+      "guid": "588b4b5e-04a7-46f8-8808-40b991372b91",
+      "file_pub": "DAT330.ssf"
+    },
+    "targettest_metaknight": {
+      "file": "targettest_metaknight.ssf",
+      "guid": "86a614a4-e263-4900-bcd4-f6485b1d3b5b",
+      "file_pub": "DAT190.ssf"
+    },
+    "sandbagsoccer": {
+      "file": "sandbagsoccer.ssf",
+      "guid": "2f707e4f-dd5c-41db-86be-323a134c78bd",
+      "file_pub": "DAT259.ssf"
+    },
+    "targettest_zelda": {
+      "file": "targettest_zelda.ssf",
+      "guid": "bae4925f-9e7d-46be-8589-f6356464e0ae",
+      "file_pub": "DAT292.ssf"
+    },
+    "yoshisisland": {
+      "file": "yoshisisland.ssf",
+      "name": "Yoshi's Island",
+      "guid": "9fc1f800-5aae-45f4-8979-9f605a86d2af",
+      "file_pub": "DAT358.ssf"
+    },
+    "lakeofrage": {
+      "file": "lakeofrage.ssf",
+      "name": "Lake of Rage",
+      "guid": "838a3f70-2f3f-4a98-acbd-f4af382595b5",
+      "file_pub": "DAT373.ssf"
+    },
+    "saturnvalley": {
+      "file": "saturnvalley.ssf",
+      "name": "Saturn Valley",
+      "guid": "e16b7535-9a52-4426-bf49-92470e6eade8",
+      "file_pub": "DAT60.ssf"
+    },
+    "desk": {
+      "file": "desk.ssf",
+      "name": "Desk",
+      "guid": "0aef7335-479a-43d7-9659-8e794446aa81",
+      "file_pub": "DAT66.ssf"
+    },
+    "krazoapalace": {
+      "file": "krazoapalace.ssf",
+      "name": "Krazoa Palace",
+      "guid": "5a4326cb-dcbc-4171-bdba-d08cd451ff62",
+      "file_pub": "DAT2.ssf"
+    },
+    "finalvalley": {
+      "file": "finalvalley.ssf",
+      "name": "Final Valley",
+      "guid": "4ba032a2-0bad-4a1e-8e32-06ad41f6513e",
+      "file_pub": "DAT38.ssf"
+    },
+    "lunarcore": {
+      "file": "lunarcore.ssf",
+      "name": "Lunar Core",
+      "guid": "09f18b4d-7992-469b-9a63-e1a2d4d43a77",
+      "file_pub": "DAT273.ssf"
+    },
+    "kingdom2": {
+      "file": "kingdom2.ssf",
+      "name": "Mushroom Kingdom II",
+      "guid": "d1ed3e6b-06f2-4177-9781-8896642a6ead",
+      "file_pub": "DAT10.ssf"
+    },
+    "targettest_yoshi": {
+      "file": "targettest_yoshi.ssf",
+      "guid": "a1d7f6d5-c02f-4247-a2bf-ff06020b3dc3",
+      "file_pub": "DAT101.ssf"
+    },
+    "planetnamek": {
+      "file": "planetnamek.ssf",
+      "name": "Planet Namek",
+      "guid": "6a858747-1df4-4bf2-ae09-090c27db416c",
+      "file_pub": "DAT326.ssf"
+    },
+    "clocktown": {
+      "file": "clocktown.ssf",
+      "name": "Clock Town",
+      "guid": "eb13a025-dead-4fa1-9344-6904d7556bea",
+      "file_pub": "DAT218.ssf"
+    },
+    "locked2": {},
+    "pokemoncolosseum": {
+      "file": "pokemoncolosseum.ssf",
+      "name": "Pokémon Colosseum",
+      "guid": "52372260-aa56-4f81-91d1-9125503d30b5",
+      "file_pub": "DAT204.ssf"
+    },
+    "targettest_waluigi": {
+      "file": "targettest_waluigi.ssf",
+      "guid": "f280b21d-5bab-402e-8879-93267299bd61",
+      "file_pub": "DAT109.ssf"
+    },
+    "metalcavern": {
+      "file": "metalcavern.ssf",
+      "name": "Meta Crystal",
+      "guid": "88b449d1-b1a2-45d8-bf83-f6bbf1dddfe9",
+      "file_pub": "DAT50.ssf"
+    },
+    "targettest_donkeykong": {
+      "file": "targettest_donkeykong.ssf",
+      "guid": "59c8c084-80d9-4350-ad5e-77b1c9909659",
+      "file_pub": "DAT93.ssf"
+    },
+    "emeraldcave": {
+      "file": "emeraldcave.ssf",
+      "name": "Palm Tree Paradise",
+      "guid": "ce3d78f5-a7f5-4a71-a6c0-68e38e689ed2",
+      "file_pub": "DAT142.ssf"
+    },
+    "warioware": {
+      "file": "warioware.ssf",
+      "name": "WarioWare, Inc.",
+      "guid": "f0f9a82a-531b-46e8-9ce0-03a58042629f",
+      "file_pub": "DAT208.ssf"
+    },
+    "bowserscastle": {
+      "file": "bowserscastle.ssf",
+      "name": "Bowser's Castle",
+      "guid": "d2682e2b-5af4-4774-89e8-dc75952d403d",
+      "file_pub": "DAT266.ssf"
+    },
+    "castlesiege": {
+      "file": "castlesiege.ssf",
+      "name": "Castle Siege",
+      "guid": "960c23e4-5910-4b1f-9c59-4935781ae00c",
+      "file_pub": "DAT226.ssf"
+    },
+    "yoshisstory": {
+      "file": "yoshisstory.ssf",
+      "name": "Yoshi's Story",
+      "guid": "78ec5f26-dcf3-4699-beaf-68f43f4e5c37",
+      "file_pub": "DAT238.ssf"
+    },
+    "targettest_jigglypuff": {
+      "file": "targettest_jigglypuff.ssf",
+      "guid": "cc48ac81-8c3c-4710-98ea-953e51f49ee7",
+      "file_pub": "DAT123.ssf"
+    },
+    "targettest_luigi": {
+      "file": "targettest_luigi.ssf",
+      "guid": "e86b445f-d947-428b-86d1-faca93204968",
+      "file_pub": "DAT365.ssf"
+    },
+    "racetothefinish": {
+      "file": "racetothefinish.ssf",
+      "guid": "8c7af185-a2c5-4fd6-b22e-eccef01bcea8",
+      "file_pub": "DAT298.ssf"
+    },
+    "homeruncontest2": {
+      "file": "homeruncontest2.ssf",
+      "guid": "28cf731f-836d-4181-821d-67f9eda63504",
+      "file_pub": "DAT61.ssf"
+    },
+    "sandbagbasketball": {
+      "file": "sandbagbasketball.ssf",
+      "guid": "198c4259-af46-412a-b2e3-68f92e85f448",
+      "file_pub": "DAT286.ssf"
+    },
+    "targettest_blackmage": {
+      "file": "targettest_blackmage.ssf",
+      "guid": "fa18c791-c209-4122-9dcf-3f0e643584b2",
+      "file_pub": "DAT111.ssf"
+    },
+    "butterbuilding": {
+      "file": "butterbuilding.ssf",
+      "name": "Butter Building",
+      "guid": "ee63e5ac-8f30-4d49-bad7-37509c6d50be",
+      "file_pub": "DAT206.ssf"
+    },
+    "targettest_bowser": {
+      "file": "targettest_bowser.ssf",
+      "guid": "21621cef-9dca-43eb-8cbf-edb2eb80912d",
+      "file_pub": "DAT279.ssf"
+    },
+    "worldtournament": {
+      "file": "worldtournament.ssf",
+      "name": "World Tournament",
+      "guid": "a62a70eb-1db2-4eb8-832c-6a6550f1e52f",
+      "file_pub": "DAT241.ssf"
+    },
+    "yoshisisland64": {
+      "file": "yoshisisland64.ssf",
+      "name": "Super Happy Tree",
+      "guid": "d44a06b9-57b5-4984-83f0-b102591277a5",
+      "file_pub": "DAT287.ssf"
+    },
+    "dededearena": {
+      "name": "Dedede's Arena",
+      "file": "dededearena.ssf",
+      "guid": "6638d201-94d2-4cf0-81e8-6baf110e3695",
+      "file_pub": "DAT31.ssf"
+    },
+    "skullfortress": {
+      "file": "skullfortress.ssf",
+      "name": "Skull Fortress",
+      "guid": "efaaa24f-942b-4031-bb52-74349799a3b4",
+      "file_pub": "DAT37.ssf"
+    },
+    "targettest_simon": {
+      "file": "targettest_simon.ssf",
+      "guid": "a9681712-6722-4689-87c6-1a33c37c3d3b",
+      "file_pub": "DAT125.ssf"
+    },
+    "waitingroom": {
+      "file": "waitingroom.ssf",
+      "name": "Waiting Room",
+      "guid": "9a13e61a-bf28-4396-9d37-ac8a97c3a03b",
+      "file_pub": "DAT314.ssf"
+    },
+    "steeldiver": {
+      "file": "steeldiver.ssf",
+      "name": "Steel Diver",
+      "guid": "fea2a8f1-46bf-4b42-99f1-d36dff7e1c81",
+      "file_pub": "DAT233.ssf"
+    },
+    "pacmaze": {
+      "file": "pacmaze.ssf",
+      "name": "PAC-MAZE",
+      "guid": "f7bbc062-7684-4c24-9fde-d8610c9dfcb2",
+      "file_pub": "DAT19.ssf"
+    },
+    "theworldthatneverwas": {
+      "file": "theworldthatneverwas.ssf",
+      "name": "The World That Never Was",
+      "guid": "f5bc405e-74e6-4358-89fa-84f6a7e86acf",
+      "file_pub": "DAT105.ssf"
+    },
+    "junglehijinx": {
+      "file": "junglehijinx.ssf",
+      "name": "Jungle Hijinx",
+      "guid": "c19a717f-eeb7-46eb-8672-a4b5cda2f616",
+      "file_pub": "DAT150.ssf"
+    },
+    "skypillar": {
+      "file": "skypillar.ssf",
+      "name": "Sky Pillar",
+      "guid": "a24b67a4-f69f-48ba-b8d8-8d2d1b0a4fb5",
+      "file_pub": "DAT21.ssf"
+    },
+    "fourside": {
+      "file": "fourside.ssf",
+      "name": "Fourside",
+      "guid": "c970d1df-a3d6-4de7-b761-a90bd60215ca",
+      "file_pub": "DAT36.ssf"
+    },
+    "phase8": {
+      "file": "phase8.ssf",
+      "name": "Planet SR388",
+      "guid": "dc973197-b371-4e18-bf93-9f07861d9f10",
+      "file_pub": "DAT53.ssf"
+    },
+    "hyruletemple": {
+      "file": "hyruletemple.ssf",
+      "name": "Temple",
+      "guid": "3b853a71-ee2b-43ce-8383-10db58ba801c",
+      "file_pub": "DAT65.ssf"
+    },
+    "targettest_pikachu": {
+      "file": "targettest_pikachu.ssf",
+      "guid": "b4656fee-7ff9-47bc-ab1a-4ee99bd7b5de",
+      "file_pub": "DAT133.ssf"
+    },
+    "draculascastle": {
+      "file": "draculascastle.ssf",
+      "name": "Dracula's Castle",
+      "guid": "efac6fad-6751-4804-aac5-7a7dd0253636",
+      "file_pub": "DAT143.ssf"
+    },
+    "twilighttown": {
+      "file": "twilighttown.ssf",
+      "name": "Twilight Town",
+      "guid": "56f42162-cd47-43d8-be56-8265fc2d0c86",
+      "file_pub": "DAT166.ssf"
+    },
+    "peachscastle": {
+      "file": "peachscastle.ssf",
+      "name": "Princess Peach's Castle",
+      "guid": "7989887c-6ead-46c3-a514-c14f3b0135c4",
+      "file_pub": "DAT244.ssf"
+    },
+    "rainbowroute": {
+      "file": "rainbowroute.ssf",
+      "name": "Rainbow Route",
+      "guid": "c02c1532-40ba-4e2a-8a7a-3dad26f05b87",
+      "file_pub": "DAT163.ssf"
+    },
+    "targettest_link": {
+      "file": "targettest_link.ssf",
+      "guid": "e4cde24b-f8a5-4b72-a622-a888641dc945",
+      "file_pub": "DAT17.ssf"
+    },
+    "suzakucastle": {
+      "file": "suzakucastle.ssf",
+      "name": "Suzaku Castle",
+      "guid": "62d85510-e68f-44e3-9a8f-63304d01e55e",
+      "file_pub": "DAT76.ssf"
+    },
+    "huecomundo": {
+      "file": "huecomundo.ssf",
+      "name": "Hueco Mundo",
+      "guid": "54647e53-1c41-4995-afbb-dd769c2f656c",
+      "file_pub": "DAT54.ssf"
+    },
+    "jungleisland": {
+      "name": "Jungle Island",
+      "file": "jungleisland.ssf",
+      "guid": "bd2aab1c-474c-4bdb-a996-e1673f219b25",
+      "file_pub": "DAT245.ssf"
+    },
+    "fairyglade": {
+      "file": "fairyglade.ssf",
+      "name": "Fairy Glade",
+      "guid": "6c612779-36a5-485d-8011-765e99715114",
+      "file_pub": "DAT284.ssf"
+    },
+    "chaosshrine": {
+      "file": "chaosshrine.ssf",
+      "name": "Chaos Shrine",
+      "guid": "9669b85c-fa35-443a-8cf9-7cddb9bf8e52",
+      "file_pub": "DAT23.ssf"
+    },
+    "targettest2": {
+      "file": "targettest2.ssf",
+      "guid": "ad01f0cd-9dd7-46c0-9c2f-a4ed0125adc6",
+      "file_pub": "DAT356.ssf"
+    },
+    "skysanctuary": {
+      "file": "skysanctuary.ssf",
+      "name": "Sky Sanctuary Zone",
+      "guid": "85462325-8e72-46fb-9807-93c165d2643c",
+      "file_pub": "DAT313.ssf"
+    },
+    "saffroncity": {
+      "file": "saffroncity.ssf",
+      "name": "Saffron City",
+      "guid": "ee7ff71f-23c7-44e2-aa0a-b77b84654adc",
+      "file_pub": "DAT86.ssf"
+    },
+    "targettest_lucario": {
+      "file": "targettest_lucario.ssf",
+      "guid": "752940a4-b76b-4150-90fd-2d66d967ce7e",
+      "file_pub": "DAT367.ssf"
+    },
+    "casinonightzone": {
+      "file": "casinonightzone.ssf",
+      "name": "Casino Night Zone",
+      "guid": "51484658-3913-4eef-afdd-15dbcc01bdda",
+      "file_pub": "DAT159.ssf"
+    },
+    "targettest_marth": {
+      "file": "targettest_marth.ssf",
+      "guid": "1bd83e0c-c67e-4f3e-8c9c-124dfef486b8",
+      "file_pub": "DAT6.ssf"
+    },
+    "battlefield": {
+      "file": "battlefield.ssf",
+      "name": "Battlefield",
+      "guid": "ad6f95ac-4566-40eb-9ad3-e75702242cfd",
+      "file_pub": "DAT328.ssf"
+    },
+    "targettest_sheik": {
+      "file": "targettest_sheik.ssf",
+      "guid": "8e1eb10b-2bbd-4793-a281-99b551faf1c4",
+      "file_pub": "DAT301.ssf"
+    },
+    "targettest_mario": {
+      "file": "targettest_mario.ssf",
+      "guid": "4638e2cb-b633-4c0b-8e87-742ea4c295bb",
+      "file_pub": "DAT88.ssf"
+    },
+    "nintendo3ds": {
+      "file": "nintendo3ds.ssf",
+      "name": "Nintendo 3DS",
+      "guid": "35d7b2e5-4bba-478e-8113-0620149a3b48",
+      "file_pub": "DAT256.ssf"
+    },
+    "battlefield2": {
+      "file": "battlefield2.ssf",
+      "name": "Multi-Man Battlefield",
+      "guid": "fdd64fa2-d993-42e3-95df-76bfa6806d3c",
+      "file_pub": "DAT261.ssf"
+    },
+    "devilsmachine": {
+      "file": "devilsmachine.ssf",
+      "name": "Devil's Machine",
+      "guid": "b703fe50-cb1f-48fe-95d4-e23e95e75b25",
+      "file_pub": "DAT225.ssf"
+    },
+    "targettest_bandanadee": {
+      "file": "targettest_bandanadee.ssf",
+      "guid": "36704879-5665-46c9-ab1d-36a33498aa89",
+      "file_pub": "DAT47.ssf"
+    },
+    "homeruncontest": {
+      "file": "homeruncontest.ssf",
+      "guid": "83faeedf-fa53-4b96-95d2-880a0486c00a",
+      "file_pub": "DAT136.ssf"
+    },
+    "urbanchampion": {
+      "file": "urbanchampion.ssf",
+      "name": "Urban Champion",
+      "guid": "d93172e4-15dd-4128-afef-9bfc55c1ac7a",
+      "file_pub": "DAT341.ssf"
+    },
+    "targettest_sora": {
+      "file": "targettest_sora.ssf",
+      "guid": "1e5eddec-11cb-4a2a-8944-48a092d70911",
+      "file_pub": "DAT63.ssf"
+    },
+    "targettest_bomberman": {
+      "file": "targettest_bomberman.ssf",
+      "guid": "5a6b7257-f4ac-487d-b0fd-8d6d94c88f26",
+      "file_pub": "DAT68.ssf"
+    },
+    "gangplankgalleon": {
+      "file": "gangplankgalleon.ssf",
+      "name": "Gangplank Galleon",
+      "guid": "b9c338ce-f61a-466d-a9e3-5c6dba0777db",
+      "file_pub": "DAT187.ssf"
+    },
+    "hyrulecastle64": {
+      "file": "hyrulecastle64.ssf",
+      "name": "Hyrule Castle",
+      "guid": "03f26f02-0208-4f6e-a365-60bc390c835c",
+      "file_pub": "DAT131.ssf"
+    },
+    "crystalsmash": {
+      "file": "crystalsmash.ssf",
+      "name": "Crystal Smash Stage",
+      "guid": "194a4972-6e45-49f3-969e-50b2ee3c84d4",
+      "file_pub": "DAT168.ssf"
+    },
+    "dreamland": {
+      "file": "dreamland.ssf",
+      "name": "Dream Land",
+      "guid": "7fbc6488-e6d7-420c-94fa-e244635c90a8",
+      "file_pub": "DAT371.ssf"
+    },
+    "targettest4": {
+      "file": "targettest4.ssf",
+      "guid": "beeab96f-5cd5-41e8-ba25-ee6552b1ca36",
+      "file_pub": "DAT232.ssf"
+    },
+    "palutenasshrine": {
+      "file": "palutenasshrine.ssf",
+      "name": "Palutena's Shrine",
+      "guid": "911bf24b-ac88-44d6-a3d8-0d42fc3926d5",
+      "file_pub": "DAT275.ssf"
+    },
+    "targettest_zamus": {
+      "file": "targettest_zamus.ssf",
+      "guid": "99982c2e-d441-48a5-b825-96d8e0e10b63",
+      "file_pub": "DAT155.ssf"
+    },
+    "restarea": {
+      "file": "restarea.ssf",
+      "name": "All-Star Rest Area",
+      "guid": "61363763-eee0-4fbe-88e9-367a3ae97db0",
+      "file_pub": "DAT13.ssf"
+    },
+    "targettest": {
+      "file": "targettest.ssf",
+      "guid": "1bb4f664-f0cd-439c-a726-eb711afdfd4f",
+      "file_pub": "DAT248.ssf"
+    },
+    "locked1": {},
+    "targettest3": {
+      "file": "targettest3.ssf",
+      "guid": "be3320f1-201f-4b15-9d18-4e0092653fcc",
+      "file_pub": "DAT177.ssf"
+    },
+    "traininggrid": {
+      "guid": "8880659a-7da0-4cd7-9b20-768c65d784ee",
+      "name": "Training Grid",
+      "file": "traininggrid.ssf",
+      "file_pub": "DAT377.ssf",
+      "training_only": true
+    }
+  },
+  "stage_xp": {},
+  "extra": {
+    "ssf2intro_v8": {
+      "file": "ssf2intro_v8.ssf",
+      "guid": "b33bb564-74b7-4476-b9ee-d0aa83cdd5a2",
+      "file_pub": "DAT285.ssf"
+    },
+    "ssf2intro_v9": {
+      "file": "ssf2intro_v9.ssf",
+      "guid": "1a859791-8c60-44d8-9c2c-b401ce0d951e",
+      "file_pub": "DAT32.ssf"
+    }
+  },
+  "music": {
+    "bgm_mutecity": {
+      "file": "bgm_mutecity.ssf",
+      "guid": "835ac308-3209-4431-a0dd-4adc70b601bd",
+      "file_pub": "DAT81.ssf"
+    },
+    "bgm_vsmasterhand": {
+      "file": "bgm_vsmasterhand.ssf",
+      "guid": "a438132d-7262-450d-9255-c16f90901e0e",
+      "file_pub": "DAT138.ssf"
+    },
+    "bgm_sandocean": {
+      "file": "bgm_sandocean.ssf",
+      "guid": "1141f091-f179-44ba-b25b-3ef28c2ec387",
+      "file_pub": "DAT304.ssf"
+    },
+    "bgm_miichannel": {
+      "file": "bgm_miichannel.ssf",
+      "guid": "711b93e5-e9af-483d-81d9-651362588c88",
+      "file_pub": "DAT324.ssf"
+    },
+    "bgm_yoshiunderground": {
+      "file": "bgm_yoshiunderground.ssf",
+      "guid": "7b8be526-4783-4a91-91e6-40c2ac180e56",
+      "file_pub": "DAT288.ssf"
+    },
+    "bgm_lakituplains": {
+      "file": "bgm_lakituplains.ssf",
+      "guid": "92bb85b5-01d4-4281-937f-f878eb7e1e57",
+      "file_pub": "DAT8.ssf"
+    },
+    "bgm_hihihi": {
+      "file": "bgm_hihihi.ssf",
+      "guid": "b83ccfe0-b93c-4b95-851d-38c1ee170969",
+      "file_pub": "DAT195.ssf"
+    },
+    "bgm_restareabrawl": {
+      "file": "bgm_restareabrawl.ssf",
+      "guid": "ccf6d7a6-c774-44c5-bd9b-4455f4c289fd",
+      "file_pub": "DAT164.ssf"
+    },
+    "bgm_superprincesspeach2": {
+      "file": "bgm_superprincesspeach2.ssf",
+      "guid": "870d780e-a0e8-11e6-80f5-76304dec7eb7",
+      "file_pub": "DAT161.ssf"
+    },
+    "bgm_corneria2": {
+      "file": "bgm_corneria2.ssf",
+      "guid": "f9166464-6854-4e1e-b936-4cb526455a96",
+      "file_pub": "DAT49.ssf"
+    },
+    "bgm_corneria": {
+      "file": "bgm_corneria.ssf",
+      "guid": "d7638867-c951-4787-bb0e-c1768a629b1e",
+      "file_pub": "DAT343.ssf"
+    },
+    "bgm_dkislandswing": {
+      "file": "bgm_dkislandswing.ssf",
+      "guid": "c6f1fd9c-f80c-4d17-bad7-12dea6d57c53",
+      "file_pub": "DAT146.ssf"
+    },
+    "bgm_restarea": {
+      "file": "bgm_restarea.ssf",
+      "guid": "d330794c-383a-4a9d-9ba8-6d3a271fd35c",
+      "file_pub": "DAT332.ssf"
+    },
+    "bgm_proofofblood": {
+      "file": "bgm_proofofblood.ssf",
+      "guid": "bd27a723-6311-4ad1-b45c-c6927de3c131",
+      "file_pub": "DAT270.ssf"
+    },
+    "bgm_greengreens": {
+      "file": "bgm_greengreens.ssf",
+      "guid": "a2b2dc86-ce95-4e49-807b-97b6b4a115e7",
+      "file_pub": "DAT89.ssf"
+    },
+    "bgm_meleemenu2": {
+      "file": "bgm_meleemenu2.ssf",
+      "guid": "85a055d2-42eb-49c3-b40e-04b9acb21e1b",
+      "file_pub": "DAT349.ssf"
+    },
+    "bgm_humoresqueofalittledog": {
+      "file": "bgm_humoresqueofalittledog.ssf",
+      "guid": "27626de4-20f0-4511-bccb-7d3470635cb2",
+      "file_pub": "DAT73.ssf"
+    },
+    "bgm_casinopark": {
+      "file": "bgm_casinopark.ssf",
+      "guid": "fb301a40-462e-49c1-9fd4-edd403b54353",
+      "file_pub": "DAT127.ssf"
+    },
+    "bgm_steeldiver": {
+      "file": "bgm_steeldiver.ssf",
+      "guid": "74468569-6ca0-42d0-9018-b05b0980073c",
+      "file_pub": "DAT20.ssf"
+    },
+    "bgm_breakthetargets": {
+      "file": "bgm_breakthetargets.ssf",
+      "guid": "6bb733bd-4f3d-4253-a1ba-3ec1fdb1816a",
+      "file_pub": "DAT289.ssf"
+    },
+    "bgm_ryutheme": {
+      "file": "bgm_ryutheme.ssf",
+      "guid": "aa1bd1fe-2a48-41fb-ab1a-164ec0e94613",
+      "file_pub": "DAT221.ssf"
+    },
+    "bgm_sinnohlegendsmedley": {
+      "file": "bgm_sinnohlegendsmedley.ssf",
+      "guid": "c64600c9-5900-4e9a-ba0c-60bee3bf1262",
+      "file_pub": "DAT18.ssf"
+    },
+    "bgm_PokemonGyms": {
+      "file": "bgm_PokemonGyms.ssf",
+      "guid": "6b70cdfd-8ef3-435d-989c-2ee2ceaa2dcf",
+      "file_pub": "DAT39.ssf"
+    },
+    "bgm_sinistersundownworkingtogether": {
+      "file": "bgm_sinistersundownworkingtogether.ssf",
+      "guid": "1345fd3e-5e24-4dfd-a21a-cd6081830346",
+      "file_pub": "DAT224.ssf"
+    },
+    "bgm_djkk": {
+      "file": "bgm_djkk.ssf",
+      "guid": "2974ce3a-44de-415f-bc8d-d434f6fe0da2",
+      "file_pub": "DAT25.ssf"
+    },
+    "bgm_teamrockethideout": {
+      "file": "bgm_teamrockethideout.ssf",
+      "guid": "88f876cb-1f8c-41ba-9e2a-4c444169c075",
+      "file_pub": "DAT310.ssf"
+    },
+    "bgm_bombermanstheme": {
+      "file": "bgm_bombermanstheme.ssf",
+      "guid": "ead2937c-6ba9-4201-870d-6a1bbce7dd30",
+      "file_pub": "DAT205.ssf"
+    },
+    "bgm_titlegoldensun": {
+      "file": "bgm_titlegoldensun.ssf",
+      "guid": "804bd94e-beb0-11e6-a4a6-cec0c932ce01",
+      "file_pub": "DAT129.ssf"
+    },
+    "bgm_kingdom2": {
+      "file": "bgm_kingdom2.ssf",
+      "guid": "d4736373-a3a0-48f1-8d1b-de005eb1a45c",
+      "file_pub": "DAT145.ssf"
+    },
+    "bgm_kkcruisin": {
+      "file": "bgm_kkcruisin.ssf",
+      "guid": "0d2b629b-9dba-4001-b644-d9fe7b0f0f41",
+      "file_pub": "DAT260.ssf"
+    },
+    "bgm_songofstorms": {
+      "file": "bgm_songofstorms.ssf",
+      "guid": "5270a92e-6248-450f-8e7b-2d84bd16c35a",
+      "file_pub": "DAT186.ssf"
+    },
+    "bgm_redial": {
+      "file": "bgm_redial.ssf",
+      "guid": "b8c74ded-7117-477e-bb1b-cd9e9bdf7c03",
+      "file_pub": "DAT340.ssf"
+    },
+    "bgm_fourside": {
+      "file": "bgm_fourside.ssf",
+      "guid": "f807204d-808f-4c2e-8e83-f1151e124e8e",
+      "file_pub": "DAT329.ssf"
+    },
+    "bgm_temple": {
+      "file": "bgm_temple.ssf",
+      "guid": "e492f800-8368-4d3b-8754-5aaf56da4bc8",
+      "file_pub": "DAT160.ssf"
+    },
+    "bgm_battlefield": {
+      "file": "bgm_battlefield.ssf",
+      "guid": "e4ea4051-6ca9-4bc1-9820-42705cf03717",
+      "file_pub": "DAT1.ssf"
+    },
+    "bgm_magnus": {
+      "file": "bgm_magnus.ssf",
+      "guid": "5f79a78e-bab3-402b-a737-e12a42db72d5",
+      "file_pub": "DAT119.ssf"
+    },
+    "bgm_shybutdeadly": {
+      "file": "bgm_shybutdeadly.ssf",
+      "guid": "e7f60f3e-eef8-41ea-8a7c-32b4b1815da1",
+      "file_pub": "DAT203.ssf"
+    },
+    "bgm_pacmantheme": {
+      "file": "bgm_pacmantheme.ssf",
+      "guid": "64b2ce8a-1516-4dad-8b3e-0b17fa7c544c",
+      "file_pub": "DAT167.ssf"
+    },
+    "bgm_yoshisisland64": {
+      "file": "bgm_yoshisisland64.ssf",
+      "guid": "820039e1-4827-41d9-82b2-126246481d38",
+      "file_pub": "DAT335.ssf"
+    },
+    "bgm_palaceinthesky": {
+      "file": "bgm_palaceinthesky.ssf",
+      "guid": "9deb85c2-a53e-46fd-8c70-86c87ab52ed4",
+      "file_pub": "DAT79.ssf"
+    },
+    "bgm_characterbtt": {
+      "file": "bgm_characterbtt.ssf",
+      "guid": "668f9a8f-1e47-4a20-8816-4b5d5723e234",
+      "file_pub": "DAT15.ssf"
+    },
+    "bgm_skullfortress": {
+      "file": "bgm_skullfortress.ssf",
+      "guid": "607bc454-2f5d-45d3-8933-876a3d43d1c2",
+      "file_pub": "DAT95.ssf"
+    },
+    "bgm_bigblue": {
+      "file": "bgm_bigblue.ssf",
+      "guid": "6167e05b-66b8-4a7d-89bf-6fcc70592462",
+      "file_pub": "DAT40.ssf"
+    },
+    "bgm_gohansangertheme": {
+      "file": "bgm_gohansangertheme.ssf",
+      "guid": "03c41a2a-a110-4f35-9bc7-3a4a8f1c1631",
+      "file_pub": "DAT361.ssf"
+    },
+    "bgm_ATBAPM": {
+      "file": "bgm_ATBAPM.ssf",
+      "guid": "2a90fe12-a050-469f-8718-b2fc1b8fc52c",
+      "file_pub": "DAT229.ssf"
+    },
+    "bgm_polygonzone": {
+      "file": "bgm_polygonzone.ssf",
+      "guid": "f697a7d4-3528-494a-a324-2dd38d4ae059",
+      "file_pub": "DAT171.ssf"
+    },
+    "bgm_menunesmix": {
+      "file": "bgm_menunesmix.ssf",
+      "guid": "47937696-d7b5-4248-9efc-19c2df131331",
+      "file_pub": "DAT194.ssf"
+    },
+    "bgm_deathmountain": {
+      "file": "bgm_deathmountain.ssf",
+      "guid": "b014b45d-0f3b-4958-96e9-b3a0996b8e2a",
+      "file_pub": "DAT5.ssf"
+    },
+    "bgm_mmxmedley": {
+      "file": "bgm_mmxmedley.ssf",
+      "guid": "68c9d4f6-16d6-4879-8506-946209257af1",
+      "file_pub": "DAT189.ssf"
+    },
+    "bgm_kingdededetheme": {
+      "file": "bgm_kingdededetheme.ssf",
+      "guid": "d0132fab-62ff-4d1d-8f28-6a8e5bf479d0",
+      "file_pub": "DAT345.ssf"
+    },
+    "bgm_flatzone2K19": {
+      "file": "bgm_flatzone2K19.ssf",
+      "guid": "d777d1f1-c737-40ad-ae66-4166cd29eb8b",
+      "file_pub": "DAT200.ssf"
+    },
+    "bgm_metalbros": {
+      "file": "bgm_metalbros.ssf",
+      "guid": "c3583e0e-5153-4eae-95c7-2c87fedb397d",
+      "file_pub": "DAT113.ssf"
+    },
+    "bgm_underwatersmb": {
+      "file": "bgm_underwatersmb.ssf",
+      "guid": "1ef73056-b75a-42fe-a675-493e38fd109a",
+      "file_pub": "DAT344.ssf"
+    },
+    "bgm_tosmedley": {
+      "file": "bgm_tosmedley.ssf",
+      "guid": "94c5a822-89b0-466e-bc0d-2906e69faf55",
+      "file_pub": "DAT352.ssf"
+    },
+    "bgm_flashinthedarkgalaxyfantasy": {
+      "file": "bgm_flashinthedarkgalaxyfantasy.ssf",
+      "guid": "cdd781cd-617f-4c96-a236-711bd02a7977",
+      "file_pub": "DAT120.ssf"
+    },
+    "bgm_snakeychantey": {
+      "file": "bgm_snakeychantey.ssf",
+      "guid": "12a5a7e0-01ec-42f1-ab7c-c17861a34dd9",
+      "file_pub": "DAT100.ssf"
+    },
+    "bgm_bowserscastle": {
+      "file": "bgm_bowserscastle.ssf",
+      "guid": "0a53184d-9c41-4397-b1d2-68072d61e57e",
+      "file_pub": "DAT262.ssf"
+    },
+    "bgm_supermetroidmedley": {
+      "file": "bgm_supermetroidmedley.ssf",
+      "guid": "6ebc4254-1343-4b07-9ae6-cb768a11607a",
+      "file_pub": "DAT14.ssf"
+    },
+    "bgm_ghostlygarden": {
+      "file": "bgm_ghostlygarden.ssf",
+      "guid": "c1cd53c7-c8d0-4d66-a07f-6434eaee240b",
+      "file_pub": "DAT104.ssf"
+    },
+    "bgm_snowpointtemplemedley": {
+      "file": "bgm_snowpointtemplemedley.ssf",
+      "guid": "ff8dbd48-b017-4bf0-b670-237de0d7cdc7",
+      "file_pub": "DAT137.ssf"
+    },
+    "bgm_spacejunkgalaxy": {
+      "file": "bgm_spacejunkgalaxy.ssf",
+      "guid": "c521d680-59d4-4fc9-b568-bd781010f635",
+      "file_pub": "DAT26.ssf"
+    },
+    "bgm_targettest": {
+      "file": "bgm_targettest.ssf",
+      "guid": "34aeb006-ec50-41eb-ae31-225dabce9eb9",
+      "file_pub": "DAT152.ssf"
+    },
+    "bgm_ontheprecipiceofdefeat": {
+      "file": "bgm_ontheprecipiceofdefeat.ssf",
+      "guid": "ca4b2c21-6275-4eff-bcd4-b4bd3d2b984f",
+      "file_pub": "DAT376.ssf"
+    },
+    "bgm_wariowareinc": {
+      "file": "bgm_wariowareinc.ssf",
+      "guid": "6f391369-d4a3-4b87-bd6a-35f1036fbcb9",
+      "file_pub": "DAT312.ssf"
+    },
+    "bgm_balladofthegoddess": {
+      "file": "bgm_balladofthegoddess.ssf",
+      "guid": "396e2299-6671-493f-8604-04a70ca8b534",
+      "file_pub": "DAT58.ssf"
+    },
+    "bgm_thefinalbattle": {
+      "file": "bgm_thefinalbattle.ssf",
+      "guid": "5713c4cc-9c55-41e5-9d48-93c947cd64b7",
+      "file_pub": "DAT97.ssf"
+    },
+    "bgm_pollyanna": {
+      "file": "bgm_pollyanna.ssf",
+      "guid": "0cb9dd93-2167-4c8c-9a54-eadc8f90c355",
+      "file_pub": "DAT56.ssf"
+    },
+    "bgm_krazoapalace": {
+      "file": "bgm_krazoapalace.ssf",
+      "guid": "e77e68d1-b19e-40b0-aa14-c6d9b27377c9",
+      "file_pub": "DAT12.ssf"
+    },
+    "bgm_menu": {
+      "file": "bgm_menu.ssf",
+      "guid": "b88fa74f-7865-402f-9a9f-3eeaadce8f21",
+      "file_pub": "DAT264.ssf"
+    },
+    "bgm_racetothefinish": {
+      "file": "bgm_racetothefinish.ssf",
+      "guid": "0b7ee9ed-9e98-4a49-8f60-1cebb24dfb2d",
+      "file_pub": "DAT274.ssf"
+    },
+    "bgm_ashleystheme": {
+      "file": "bgm_ashleystheme.ssf",
+      "guid": "db7ac9d2-de3e-44e2-ac34-ee8487cfd84d",
+      "file_pub": "DAT247.ssf"
+    },
+    "bgm_kentheme": {
+      "file": "bgm_kentheme.ssf",
+      "guid": "c3ec6d4f-6f3d-4a44-8988-5b8e7b0ec7d7",
+      "file_pub": "DAT355.ssf"
+    },
+    "bgm_worldtournament": {
+      "file": "bgm_worldtournament.ssf",
+      "guid": "7241b4be-c2e5-449f-b7c6-43ce96ae6864",
+      "file_pub": "DAT83.ssf"
+    },
+    "bgm_sukapontheme": {
+      "file": "bgm_sukapontheme.ssf",
+      "guid": "ff3502f6-67ab-4677-affd-cfb73977c8f0",
+      "file_pub": "DAT185.ssf"
+    },
+    "bgm_imgonnadosomething": {
+      "file": "bgm_imgonnadosomething.ssf",
+      "guid": "f6b737e3-0cf9-49f6-bf1f-617ae04b90c4",
+      "file_pub": "DAT257.ssf"
+    },
+    "bgm_dbzfighttheme": {
+      "file": "bgm_dbzfighttheme.ssf",
+      "guid": "87c9720f-d8ed-4ca7-8e2d-7724e3add219",
+      "file_pub": "DAT350.ssf"
+    },
+    "bgm_homeruncontest": {
+      "file": "bgm_homeruncontest.ssf",
+      "guid": "15c5499d-a8c2-4366-8359-be07cb278aed",
+      "file_pub": "DAT197.ssf"
+    },
+    "bgm_multimansmash": {
+      "file": "bgm_multimansmash.ssf",
+      "guid": "187bff0a-21b6-4123-b8bb-6276b10cf472",
+      "file_pub": "DAT74.ssf"
+    },
+    "bgm_deepdarkness": {
+      "file": "bgm_deepdarkness.ssf",
+      "guid": "485448b5-502a-44e3-9a37-c51c80982d24",
+      "file_pub": "DAT85.ssf"
+    },
+    "bgm_luffyfierceattack": {
+      "file": "bgm_luffyfierceattack.ssf",
+      "guid": "f5145b27-7157-4df4-99aa-dda2c2762818",
+      "file_pub": "DAT44.ssf"
+    },
+    "bgm_thewoodsoflight": {
+      "file": "bgm_thewoodsoflight.ssf",
+      "guid": "ef604a91-4d3b-4fb2-a1da-8fb836c5c4e4",
+      "file_pub": "DAT158.ssf"
+    },
+    "bgm_withinthegiant": {
+      "file": "bgm_withinthegiant.ssf",
+      "guid": "6e84144d-da4f-45d0-81d2-599d0aeccb64",
+      "file_pub": "DAT291.ssf"
+    },
+    "bgm_hammerbros": {
+      "file": "bgm_hammerbros.ssf",
+      "guid": "e1995438-800b-4e72-8614-e8a11b9ffd8f",
+      "file_pub": "DAT71.ssf"
+    },
+    "bgm_wiisportstheme": {
+      "file": "bgm_wiisportstheme.ssf",
+      "guid": "d9af85bc-1f29-416a-a581-6bc6877a75d9",
+      "file_pub": "DAT147.ssf"
+    },
+    "bgm_skypillar": {
+      "file": "bgm_skypillar.ssf",
+      "guid": "e508980c-1e85-4f66-b015-4e8ae98da307",
+      "file_pub": "DAT253.ssf"
+    },
+    "bgm_bowsersrampage": {
+      "file": "bgm_bowsersrampage.ssf",
+      "guid": "7b4bbeec-fbf3-4228-b8e3-59e2d1ca3d39",
+      "file_pub": "DAT156.ssf"
+    },
+    "bgm_polygonbattle": {
+      "file": "bgm_polygonbattle.ssf",
+      "guid": "7acf714d-f2eb-46cf-8ec5-911971e1cda5",
+      "file_pub": "DAT250.ssf"
+    },
+    "bgm_supermariobrostheme": {
+      "file": "bgm_supermariobrostheme.ssf",
+      "guid": "7ea34969-b0cd-4030-b904-883be5e2e5d9",
+      "file_pub": "DAT188.ssf"
+    },
+    "bgm_sectorzandtitania": {
+      "file": "bgm_sectorzandtitania.ssf",
+      "guid": "4b9bcaba-c949-439d-a471-746835645478",
+      "file_pub": "DAT363.ssf"
+    },
+    "bgm_athletictheme": {
+      "file": "bgm_athletictheme.ssf",
+      "guid": "723e9a21-aa3a-4a60-be8c-e313c1412f0a",
+      "file_pub": "DAT107.ssf"
+    },
+    "bgm_huecomundo": {
+      "file": "bgm_huecomundo.ssf",
+      "guid": "fccbc307-3207-40f9-9de6-4ff985afc6e3",
+      "file_pub": "DAT336.ssf"
+    },
+    "bgm_gangplankgalleon": {
+      "file": "bgm_gangplankgalleon.ssf",
+      "guid": "47641528-5f3b-49a8-a75b-c72b6001858a",
+      "file_pub": "DAT90.ssf"
+    },
+    "bgm_meteo": {
+      "file": "bgm_meteo.ssf",
+      "guid": "778b6b3b-3d22-4053-ba37-4d69aebd9ce4",
+      "file_pub": "DAT116.ssf"
+    },
+    "bgm_fatalize": {
+      "file": "bgm_fatalize.ssf",
+      "guid": "cb769a22-4469-4646-b2c5-2053eb4c0f2f",
+      "file_pub": "DAT237.ssf"
+    },
+    "bgm_dreamland": {
+      "file": "bgm_dreamland.ssf",
+      "guid": "9a552103-e141-4a77-b5e2-79c9f0ccc36a",
+      "file_pub": "DAT283.ssf"
+    },
+    "bgm_weare": {
+      "file": "bgm_weare.ssf",
+      "guid": "2955e76b-1628-4158-b28b-ea132374b536",
+      "file_pub": "DAT182.ssf"
+    },
+    "bgm_fairyfountain": {
+      "file": "bgm_fairyfountain.ssf",
+      "guid": "d4d65125-a549-4e36-bf44-39f2191a0af6",
+      "file_pub": "DAT134.ssf"
+    },
+    "bgm_speedeaters": {
+      "file": "bgm_speedeaters.ssf",
+      "guid": "a567c8f0-a59c-4cee-bcbb-49a75c636c72",
+      "file_pub": "DAT130.ssf"
+    },
+    "bgm_skytower": {
+      "file": "bgm_skytower.ssf",
+      "guid": "5eb5fc2f-74cf-4750-8cb8-1014d9da59a5",
+      "file_pub": "DAT309.ssf"
+    },
+    "bgm_songofocarina": {
+      "file": "bgm_songofocarina.ssf",
+      "guid": "46b6a306-2eb3-4122-8b1b-c02686f88a25",
+      "file_pub": "DAT255.ssf"
+    },
+    "bgm_brambleblast": {
+      "file": "bgm_brambleblast.ssf",
+      "guid": "96ee6a40-8559-41b9-bb21-0c037bb94000",
+      "file_pub": "DAT272.ssf"
+    },
+    "bgm_lakeofrage": {
+      "file": "bgm_lakeofrage.ssf",
+      "guid": "b9fd85b7-04bb-40c3-a794-2bf9b5cd9fe7",
+      "file_pub": "DAT196.ssf"
+    },
+    "bgm_jungleisland": {
+      "file": "bgm_jungleisland.ssf",
+      "guid": "db315dac-8947-4db2-ab80-43a8c96a1ca9",
+      "file_pub": "DAT169.ssf"
+    },
+    "bgm_bubblyclouds": {
+      "file": "bgm_bubblyclouds.ssf",
+      "guid": "aee2e069-e666-4bb6-93db-dae9ceb1e303",
+      "file_pub": "DAT132.ssf"
+    },
+    "bgm_castlevaniaretromedley": {
+      "file": "bgm_castlevaniaretromedley.ssf",
+      "guid": "380767f6-42aa-4147-8c3c-114953218cd1",
+      "file_pub": "DAT122.ssf"
+    },
+    "bgm_alcatraz": {
+      "file": "bgm_alcatraz.ssf",
+      "guid": "0e99b980-f7c2-466b-9eb7-8ec1566dff8a",
+      "file_pub": "DAT220.ssf"
+    },
+    "bgm_theraisingfightingspirit": {
+      "file": "bgm_theraisingfightingspirit.ssf",
+      "guid": "cc0f422d-d095-40e0-b842-0429ce5bdde1",
+      "file_pub": "DAT342.ssf"
+    },
+    "bgm_mescreamingfor26minutes": {
+      "file": "bgm_screaming.ssf",
+      "guid": "08aed21b-ba21-9ace-b4ad-048923987abb",
+      "file_pub": "DAT183.ssf"
+    },
+    "bgm_bloodytearsvampirekiller": {
+      "file": "bgm_bloodytearsvampirekiller.ssf",
+      "guid": "ea8f2399-4227-4b04-b027-ffc2da5470a3",
+      "file_pub": "DAT300.ssf"
+    },
+    "bgm_superprincesspeach": {
+      "file": "bgm_superprincesspeach.ssf",
+      "guid": "80363dee-8562-4e3c-82aa-702d5f98ef5a",
+      "file_pub": "DAT348.ssf"
+    },
+    "bgm_yoshisstory": {
+      "file": "bgm_yoshisstory.ssf",
+      "guid": "59e07b08-6bf4-4948-88ce-65ae2918c61b",
+      "file_pub": "DAT139.ssf"
+    },
+    "bgm_isaacbattletheme": {
+      "file": "bgm_isaacbattletheme.ssf",
+      "guid": "6b874fce-beb1-11e6-a4a6-cec0c932ce01",
+      "file_pub": "DAT290.ssf"
+    },
+    "bgm_lowernorfair": {
+      "file": "bgm_lowernorfair.ssf",
+      "guid": "bd101399-17a8-4e0c-8cc2-1acf49334697",
+      "file_pub": "DAT154.ssf"
+    },
+    "bgm_sacredmoon": {
+      "file": "bgm_sacredmoon.ssf",
+      "guid": "57458ae0-7733-40a0-9546-801a69ead163",
+      "file_pub": "DAT216.ssf"
+    },
+    "bgm_championbattle": {
+      "file": "bgm_championbattle.ssf",
+      "guid": "34ca34f7-caa9-41fd-888f-323aa861fd43",
+      "file_pub": "DAT48.ssf"
+    },
+    "bgm_breakthetargets2": {
+      "file": "bgm_breakthetargets2.ssf",
+      "guid": "e90108f2-cc1f-4a64-8915-a9f6791620f0",
+      "file_pub": "DAT92.ssf"
+    },
+    "bgm_hurryupshakeit": {
+      "file": "bgm_hurryupshakeit.ssf",
+      "guid": "665a4712-5e73-4080-82f6-a649da8515c1",
+      "file_pub": "DAT280.ssf"
+    },
+    "bgm_monstrousturtles": {
+      "file": "bgm_monstrousturtles.ssf",
+      "guid": "8a76ecdc-d645-4d2f-b6b5-4c9244b046cf",
+      "file_pub": "DAT369.ssf"
+    },
+    "bgm_snowbellecity": {
+      "file": "bgm_snowbellecity.ssf",
+      "guid": "6ad1bd52-e524-4759-9365-b62edcd64612",
+      "file_pub": "DAT311.ssf"
+    },
+    "bgm_kingdom": {
+      "file": "bgm_kingdom.ssf",
+      "guid": "b5dd8ff9-2f8e-4f59-82cd-1bb2f3797574",
+      "file_pub": "DAT354.ssf"
+    },
+    "bgm_comrades": {
+      "file": "bgm_comrades.ssf",
+      "guid": "5f8179b3-0b25-476f-bce1-23d8259b7686",
+      "file_pub": "DAT70.ssf"
+    },
+    "bgm_butterbuilding": {
+      "file": "bgm_butterbuilding.ssf",
+      "guid": "c63f0dbe-76d1-45d0-9bb5-7c01edf2adb7",
+      "file_pub": "DAT251.ssf"
+    },
+    "bgm_chasingadream": {
+      "file": "bgm_chasingadream.ssf",
+      "guid": "c543e8a6-48b3-4693-8853-f0d4e8cd218e",
+      "file_pub": "DAT295.ssf"
+    },
+    "bgm_gameover": {
+      "file": "bgm_gameover.ssf",
+      "guid": "049e15de-cb68-491f-a7b8-83c58f151fdc",
+      "file_pub": "DAT281.ssf"
+    },
+    "bgm_majorasmaskmedley": {
+      "file": "bgm_majorasmaskmedley.ssf",
+      "guid": "e4bedf9d-fc01-4d83-8dd8-b00ecb5acf2a",
+      "file_pub": "DAT46.ssf"
+    },
+    "bgm_donutlifts": {
+      "file": "bgm_donutlifts.ssf",
+      "guid": "07f2b62f-53bb-435d-a383-70c9b996e933",
+      "file_pub": "DAT246.ssf"
+    },
+    "bgm_porkymeansbusiness": {
+      "file": "bgm_porkymeansbusiness.ssf",
+      "guid": "7369c250-4d95-4262-82ca-5c97af54c25c",
+      "file_pub": "DAT135.ssf"
+    },
+    "bgm_waitingroom": {
+      "file": "bgm_waitingroom.ssf",
+      "guid": "9aa6d69a-b701-43e1-aeef-880afbde4fc3",
+      "file_pub": "DAT77.ssf"
+    },
+    "bgm_restareamelee": {
+      "file": "bgm_restareamelee.ssf",
+      "guid": "a51c73ec-bc80-43bd-8d0b-15309d7347a9",
+      "file_pub": "DAT80.ssf"
+    },
+    "bgm_battleff1": {
+      "file": "bgm_battleff1.ssf",
+      "guid": "5b321ef3-adea-47b1-8ef3-5948ddef0b18",
+      "file_pub": "DAT334.ssf"
+    },
+    "bgm_liveandlearn": {
+      "file": "bgm_liveandlearn.ssf",
+      "guid": "e2f67007-3b5d-4dfa-80a3-1152cde3b823",
+      "file_pub": "DAT214.ssf"
+    },
+    "bgm_wind": {
+      "file": "bgm_wind.ssf",
+      "guid": "6a42925c-8378-4d14-85ed-d4f9fc44b513",
+      "file_pub": "DAT98.ssf"
+    },
+    "bgm_zeldamaintheme": {
+      "file": "bgm_zeldamaintheme.ssf",
+      "guid": "8b7f8457-6e5c-4748-b725-5f2f60cd368a",
+      "file_pub": "DAT351.ssf"
+    },
+    "bgm_casinonightzone": {
+      "file": "bgm_casinonightzone.ssf",
+      "guid": "98575dfb-74c4-45b2-b269-fcb15449d6f4",
+      "file_pub": "DAT227.ssf"
+    },
+    "bgm_sizeofthemoon": {
+      "file": "bgm_sizeofthemoon.ssf",
+      "guid": "be779bc7-05a6-47f0-a345-b23fade4e20f",
+      "file_pub": "DAT296.ssf"
+    },
+    "bgm_rainbowroute": {
+      "file": "bgm_rainbowroute.ssf",
+      "guid": "ffdc4752-7a01-4af3-99f9-631a58450ac6",
+      "file_pub": "DAT209.ssf"
+    },
+    "bgm_kraidslair": {
+      "file": "bgm_kraidslair.ssf",
+      "guid": "70e72894-0d62-45b5-8b87-003bdc0ef3a5",
+      "file_pub": "DAT179.ssf"
+    },
+    "bgm_chaosshrine": {
+      "file": "bgm_chaosshrine.ssf",
+      "guid": "e8858d9c-26f6-49c5-9b1a-a55515201213",
+      "file_pub": "DAT252.ssf"
+    },
+    "bgm_skyloft": {
+      "file": "bgm_skyloft.ssf",
+      "guid": "dd3ddc85-69e3-43d3-9e4c-879618f17a98",
+      "file_pub": "DAT210.ssf"
+    },
+    "bgm_metalcavern": {
+      "file": "bgm_metalcavern.ssf",
+      "guid": "dbdc4ff5-cc6e-40ea-80c1-705efcfb5350",
+      "file_pub": "DAT375.ssf"
+    },
+    "bgm_pokemoncitymedley": {
+      "file": "bgm_pokemoncitymedley.ssf",
+      "guid": "dffb3b4f-f672-418c-83bd-606904b680b5",
+      "file_pub": "DAT57.ssf"
+    },
+    "bgm_dearlybeloved": {
+      "file": "bgm_dearlybeloved.ssf",
+      "guid": "75bf763f-be52-42a7-9901-01c3c7c90f15",
+      "file_pub": "DAT320.ssf"
+    },
+    "bgm_allergiagardens": {
+      "file": "bgm_allergiagardens.ssf",
+      "guid": "e82369bf-8a42-4757-8944-2ea16a87344d",
+      "file_pub": "DAT276.ssf"
+    },
+    "bgm_tripledeluxemedley": {
+      "file": "bgm_tripledeluxemedley.ssf",
+      "guid": "d0e76317-505e-4947-ad4f-bc42d7a8c300",
+      "file_pub": "DAT302.ssf"
+    },
+    "bgm_smb2overworld": {
+      "file": "bgm_smb2overworld.ssf",
+      "guid": "a907c80e-9382-4a74-b397-c1d438e6253b",
+      "file_pub": "DAT293.ssf"
+    },
+    "bgm_greenhillzone": {
+      "file": "bgm_greenhillzone.ssf",
+      "guid": "c7eedc50-24d9-45cb-9938-8feacecf210d",
+      "file_pub": "DAT78.ssf"
+    },
+    "bgm_worldmap": {
+      "file": "bgm_worldmap.ssf",
+      "guid": "3965b058-4d71-49ab-b7d2-e84824d93622",
+      "file_pub": "DAT212.ssf"
+    },
+    "bgm_gustygarden": {
+      "file": "bgm_gustygarden.ssf",
+      "guid": "141c64d0-3f78-44d2-b134-a78da5ae56b4",
+      "file_pub": "DAT28.ssf"
+    },
+    "bgm_ultimatebattle": {
+      "file": "bgm_ultimatebattle.ssf",
+      "guid": "4ce1d9be-3f21-4b1b-9733-b6ba8522188b",
+      "file_pub": "DAT84.ssf"
+    },
+    "bgm_waveracer64": {
+      "file": "bgm_waveracer64.ssf",
+      "guid": "56721fa5-3d91-49db-945f-81b090a105c1",
+      "file_pub": "DAT346.ssf"
+    },
+    "bgm_starman": {
+      "file": "bgm_starman.ssf",
+      "guid": "dc0cabf6-6e72-4b57-a5de-48cb76c852fc",
+      "file_pub": "DAT121.ssf"
+    },
+    "bgm_complete": {
+      "file": "bgm_complete.ssf",
+      "guid": "66e9f89b-82bb-403d-bdf5-a4499e97cbd6",
+      "file_pub": "DAT331.ssf"
+    },
+    "bgm_darkworld": {
+      "file": "bgm_darkworld.ssf",
+      "guid": "b000ec42-61d9-40ee-800b-b7841039866d",
+      "file_pub": "DAT242.ssf"
+    },
+    "bgm_stormeagle": {
+      "file": "bgm_stormeagle.ssf",
+      "guid": "b13337ac-a800-431d-a2c4-e93e4f39497e",
+      "file_pub": "DAT115.ssf"
+    },
+    "bgm_palmtreeparadise": {
+      "file": "bgm_palmtreeparadise.ssf",
+      "guid": "9743a4f2-d4db-4e93-b87e-aeb2a5c1ace8",
+      "file_pub": "DAT41.ssf"
+    },
+    "bgm_maskeddededesroar": {
+      "file": "bgm_maskeddededesroar.ssf",
+      "guid": "40a209dd-fe30-41e2-9a75-496154132e66",
+      "file_pub": "DAT149.ssf"
+    },
+    "bgm_rowdyrumble": {
+      "file": "bgm_rowdyrumble.ssf",
+      "guid": "75bf8d89-53c6-4ec8-a87f-16c53b69b37f",
+      "file_pub": "DAT305.ssf"
+    },
+    "bgm_fireemblemtheme": {
+      "file": "bgm_fireemblemtheme.ssf",
+      "guid": "4e239f89-986a-4474-b008-205fa6c9dde5",
+      "file_pub": "DAT347.ssf"
+    },
+    "bgm_vsridley": {
+      "file": "bgm_vsridley.ssf",
+      "guid": "ecf17625-5b51-49d2-a71b-a82164539fcd",
+      "file_pub": "DAT211.ssf"
+    },
+    "bgm_skycanyonzone": {
+      "file": "bgm_skycanyonzone.ssf",
+      "guid": "b015f01e-a0e3-11e6-80f5-76304dec7eb7",
+      "file_pub": "DAT364.ssf"
+    },
+    "bgm_skysanctuaryzone": {
+      "file": "bgm_skysanctuaryzone.ssf",
+      "guid": "f0c5f8bc-c921-45c4-b561-665f1e04b3ce",
+      "file_pub": "DAT317.ssf"
+    },
+    "bgm_masterhandcomplete": {
+      "file": "bgm_masterhandcomplete.ssf",
+      "guid": "dc6893f0-16d0-4abe-8fb3-f22fb8cbdb48",
+      "file_pub": "DAT219.ssf"
+    },
+    "bgm_maptheme": {
+      "file": "bgm_maptheme.ssf",
+      "guid": "4174076e-3a59-48e2-9d72-64278bc3bf36",
+      "file_pub": "DAT178.ssf"
+    },
+    "bgm_finaldestination": {
+      "file": "bgm_finaldestination.ssf",
+      "guid": "e07ea658-b830-4954-92d5-2845fe8b5881",
+      "file_pub": "DAT243.ssf"
+    },
+    "bgm_reversesituation": {
+      "file": "bgm_reversesituation.ssf",
+      "guid": "7b668913-a224-48cf-b423-6c6ea10ffe2e",
+      "file_pub": "DAT294.ssf"
+    },
+    "bgm_restareasmash4": {
+      "file": "bgm_restareasmash4.ssf",
+      "guid": "7adeab4d-77ad-4e47-b110-3e0c9fb6e932",
+      "file_pub": "DAT254.ssf"
+    },
+    "bgm_shackledsnowhorn": {
+      "file": "bgm_shackledsnowhorn.ssf",
+      "guid": "56d378b6-0ca2-4d38-96e5-261c8af50ffb",
+      "file_pub": "DAT228.ssf"
+    },
+    "bgm_overworld": {
+      "file": "bgm_overworld.ssf",
+      "guid": "85353487-66e7-4c40-b343-055d2acebc64",
+      "file_pub": "DAT30.ssf"
+    },
+    "bgm_funkyzone": {
+      "file": "bgm_funkyzone.ssf",
+      "guid": "560156e5-3c23-4e6f-8867-990b00c65cf9",
+      "file_pub": "DAT268.ssf"
+    },
+    "bgm_pokemonmaintheme": {
+      "file": "bgm_pokemonmaintheme.ssf",
+      "guid": "88d32937-8dc6-4648-8ce6-cd77a7554460",
+      "file_pub": "DAT193.ssf"
+    },
+    "bgm_NewAgeRetroHippie": {
+      "file": "bgm_NewAgeRetroHippie.ssf",
+      "guid": "600a528b-c980-4133-9002-f0d69629fd66",
+      "file_pub": "DAT217.ssf"
+    },
+    "bgm_MKDDBowsersCastle": {
+      "file": "bgm_MKDDBowsersCastle.ssf",
+      "guid": "2307dab6-00c9-4c42-bd69-95808174c2aa",
+      "file_pub": "DAT306.ssf"
+    },
+    "bgm_trainerbattle": {
+      "file": "bgm_trainerbattle.ssf",
+      "guid": "eff1b863-cc96-4811-9bbd-7b01451df5cf",
+      "file_pub": "DAT153.ssf"
+    },
+    "bgm_rayman2theme": {
+      "file": "bgm_rayman2theme.ssf",
+      "guid": "885b6433-04f8-4d08-869f-129fd869edc1",
+      "file_pub": "DAT297.ssf"
+    },
+    "bgm_hyrulecastleinterior": {
+      "file": "bgm_hyrulecastleinterior.ssf",
+      "guid": "2c0b825d-a494-4e74-8c43-8ab9596655fd",
+      "file_pub": "DAT94.ssf"
+    },
+    "bgm_darknessoftheunknown": {
+      "file": "bgm_darknessoftheunknown.ssf",
+      "guid": "9aa5b76d-7cfd-4e51-b9f1-e8e65cc922d9",
+      "file_pub": "DAT180.ssf"
+    },
+    "bgm_guilestheme": {
+      "file": "bgm_guilestheme.ssf",
+      "guid": "b5692b7e-0836-4962-97ac-49a46b2d0385",
+      "file_pub": "DAT192.ssf"
+    },
+    "bgm_bobombbattlefield": {
+      "file": "bgm_bobombbattlefield.ssf",
+      "guid": "6a053dbb-14ca-4695-a7c9-5e550aa4a7f2",
+      "file_pub": "DAT318.ssf"
+    },
+    "bgm_zantbattle": {
+      "file": "bgm_zantbattle.ssf",
+      "guid": "315c95b3-dc71-475e-9294-9862076741cb",
+      "file_pub": "DAT62.ssf"
+    },
+    "bgm_cruelsmash": {
+      "file": "bgm_cruelsmash.ssf",
+      "guid": "9e48eb54-1009-479f-8977-03ef7aff592f",
+      "file_pub": "DAT339.ssf"
+    },
+    "bgm_smb2caves": {
+      "file": "bgm_smb2caves.ssf",
+      "guid": "9fb56e27-6489-4a52-8700-7448682dd731",
+      "file_pub": "DAT82.ssf"
+    },
+    "bgm_dontthinktwice": {
+      "file": "bgm_dontthinktwice.ssf",
+      "guid": "c182a995-67ea-4272-8622-d03c581ca02f",
+      "file_pub": "DAT9.ssf"
+    },
+    "bgm_monsoonjungle": {
+      "file": "bgm_monsoonjungle.ssf",
+      "guid": "51ae5bef-6cfa-4a03-a60f-3bc83a1f02bb",
+      "file_pub": "DAT24.ssf"
+    },
+    "bgm_continue": {
+      "file": "bgm_continue.ssf",
+      "guid": "cdaa906d-926a-450b-bc76-78b4c34a2e29",
+      "file_pub": "DAT3.ssf"
+    },
+    "bgm_pacmaze": {
+      "file": "bgm_pacmaze.ssf",
+      "guid": "37c02741-8813-4dcc-a9bb-8fc813b55052",
+      "file_pub": "DAT307.ssf"
+    },
+    "bgm_desk": {
+      "file": "bgm_desk.ssf",
+      "guid": "53c85d1c-ed52-4cc0-bf36-d94c515fd3bc",
+      "file_pub": "DAT45.ssf"
+    },
+    "bgm_crystalsmash": {
+      "file": "bgm_crystalsmash.ssf",
+      "guid": "7f7483c0-fe4d-4d7b-9b17-819cbc3eaecf",
+      "file_pub": "DAT215.ssf"
+    },
+    "bgm_urbanchampion": {
+      "file": "bgm_urbanchampion.ssf",
+      "guid": "f855ec63-26db-4947-b79c-c953592c7385",
+      "file_pub": "DAT42.ssf"
+    },
+    "bgm_UndertheOceanBoilingPot": {
+      "file": "bgm_UndertheOceanBoilingPot.ssf",
+      "guid": "a10cf620-7bf8-42e2-9bc3-92c02f578763",
+      "file_pub": "DAT234.ssf"
+    }
+  },
+  "character_select_screen": {
+    "position": { "x": -51, "y": 23 },
+    "chip_offset": { "x": 75, "y": 60 },
+    "portrait_offset": { "x": -60, "y": 0 },
+    "portrait_spacing": 160,
+    "chip_bounds": { "x": -105, "y": 20, "width": 610, "height": 310 },
+    "hand_bounds": { "x": -105, "y": -45, "width": 610, "height": 355 },
+    "icon_size": { "width": 42, "height": 42 },
+    "rows": [
+      [ "mario","luigi","peach","bowser","yoshi","wario","waluigi","donkeykong","link","zelda","sheik","ganondorf","gameandwatch" ],
+      [ "pikachu","jigglypuff","pichu","lucario","kirby","dedede","metaknight","bandanadee","fox","falco","krystal","samus","zamus" ],
+      [ "captainfalcon","ness","marth","pit","isaac","chibirobo","sonic","tails","megaman","ryu","pacman","lloyd","simon" ],
+      [ "bomberman","blackmage","sora","rayman","goku","luffy","naruto","ichigo","sandbag","random" ]
+    ]
+  },
+  "stage_select_screen": {
+    "hand_start": { "x": 0, "y": 0 },
+    "hand_bounds": { "x": -310, "y": -160, "width": 610, "height": 320 },
+    "normal": {
+      "position": { "x":-288, "y": 1 },
+      "icon_size": { "width": 48, "height": 26 },
+      "rows": [
+        [ "battlefield","battlefield2","finaldestination","metalcavern","waitingroom","kingdom1","kingdom2","mushroomkingdom3","peachscastle","bowserscastle","galaxytours","yoshisisland64","yoshisstory" ],
+        [ "yoshisisland","emeraldcave","warioware","junglehijinx","gangplankgalleon","hyrulecastle64","hyruletemple","hylianskies","clocktown","palaceoftwilight","pokemoncolosseum","saffroncity","lakeofrage" ],
+        [ "skypillar","snowpointtemple","dreamland","rainbowroute","butterbuilding","dededearena","sectorz","meteovoyage","krazoapalace","crateria","phase8","sandocean","fourside" ],
+        [ "saturnvalley","devilsmachine","castlesiege","palutenasshrine","venuslighthouse","desk","flatzoneplus","greenhillzone","casinonightzone","skysanctuary","skullfortress","centralhighway","suzakucastle" ],
+        [ "pacmaze","towerofsalvation","bombfactory","draculascastle","chaosshrine","lunarcore","twilighttown","theworldthatneverwas","fairyglade","planetnamek","worldtournament","thousandsunny","konohavillage" ],
+        [ "finalvalley","huecomundo","smashville","urbanchampion","steeldiver","nintendo3ds","jungleisland","tinystage","random" ],
+        [ "traininggrid" ]
+      ]
+    },
+    "past": {
+      "position": { "x": -210, "y": 62 },
+      "icon_size": { "width": 42, "height": 30 },
+      "rows": [
+        [ "random" ]
+      ]
+    }
+  },
+  "stage_switch_screen": {
+    "hand_start": { "x": 0, "y": 0 },
+    "hand_bounds": { "x": -287, "y": -145, "width": 563, "height": 320 },
+    "normal": {
+      "position": { "x": -215, "y": -75 },
+      "icon_size": { "width": 52, "height": 29 },
+      "rows": [
+        [ "battlefield","battlefield2","finaldestination","metalcavern","waitingroom","kingdom1","kingdom2","mushroomkingdom3","peachscastle","bowserscastle" ],
+        [ "galaxytours","yoshisisland64","yoshisstory","yoshisisland","emeraldcave","warioware","junglehijinx","gangplankgalleon","hyrulecastle64","hyruletemple" ],
+        [ "hylianskies","clocktown","palaceoftwilight","pokemoncolosseum","saffroncity","lakeofrage","skypillar","snowpointtemple","dreamland","rainbowroute" ],
+        [ "butterbuilding","dededearena","sectorz","meteovoyage","krazoapalace","crateria","phase8","sandocean","fourside","saturnvalley" ],
+        [ "devilsmachine","castlesiege","palutenasshrine","venuslighthouse","desk","flatzoneplus","greenhillzone","casinonightzone","skysanctuary","skullfortress" ],
+        [ "centralhighway","suzakucastle","pacmaze","towerofsalvation","bombfactory","draculascastle","chaosshrine","lunarcore","twilighttown","theworldthatneverwas" ],
+        [ "fairyglade","planetnamek","worldtournament","thousandsunny","konohavillage","finalvalley","huecomundo","smashville","urbanchampion","steeldiver" ],
+	[ "nintendo3ds","jungleisland","tinystage" ]
+      ]
+    },
+    "past": {
+      "position": { "x": 173, "y": -57 },
+      "icon_size": { "width": 52, "height": 29 },
+      "rows": [
+        [  ]
+      ]
+    }
+  },
+  "item_switch_screen": {
+    "position": { "x": -250, "y": -120 },
+    "hand_start": { "x": -246, "y": -132 },
+    "hand_bounds": { "x": -287, "y": -145, "width": 585, "height": 320 },
+    "icon_size": { "width": 50, "height": 40 },
+    "rows": [
+    [ "allitems","smashball","assistTrophy","pokeball","masterball","trophystand","blastbox","capsule","crate","partyball" ],
+    [ "itembag","fan","beamsword","starrod","homerunbat","beamrod","bloodsword","poisondagger","icewing","oreclub" ],
+    [ "fooditem","maximtomato","potion","heartContainer","energytank","greenShell","redShell","yellowShell","spinyShell","bobomb" ],
+    [ "bomber","motionSensorBomb","dekuNut","poisonBomb","smartbomb","gooeybomb","explodingtag","firework","mrsaturn","freezie" ],
+    [ "pitfall","unira","screw_attack","medusahead","bumper","flipper","supermushroom","poisonmushroom","starman","metal_box" ],
+    [ "pow_block","shield_monitor","fireshield_monitor","bubbleshield_monitor","lightningshield_monitor","fireFlower","iceFlower","rayGun","coconutGun","gustJar" ]
+    ]
+  },
+  "random_characters": {
+    "characters": ["mario","luigi","peach","bowser","yoshi","wario","waluigi","donkeykong","link","zelda","sheik","ganondorf","pikachu","pichu","jigglypuff","lucario","kirby","dedede","metaknight","bandanadee","fox","falco","krystal","samus","zamus","captainfalcon","ness","marth","pit","isaac","chibirobo","gameandwatch","sonic","tails","megaman","ryu","pacman","lloyd","simon","bomberman","blackmage","sora","rayman","goku","luffy","naruto","ichigo","sandbag"]
+  },
+  "random_stages": {
+    "stages": ["battlefield","battlefield2","finaldestination","metalcavern","tinystage","galaxytours","bowserscastle","mushroomkingdom3","yoshisisland","emeraldcave","warioware","junglehijinx","gangplankgalleon","hylianskies","clocktown","pokemoncolosseum","lakeofrage","sandocean","flatzoneplus","rainbowroute","butterbuilding","meteovoyage","palutenasshrine","venuslighthouse","crateria","phase8","saturnvalley","devilsmachine","desk","casinonightzone","skysanctuary","chaosshrine","lunarcore","twilighttown","skullfortress","centralhighway","pacmaze","towerofsalvation","bombfactory","draculascastle","steeldiver","nintendo3ds","huecomundo","konohavillage","finalvalley","planetnamek","worldtournament","thousandsunny","waitingroom","kingdom1","peachscastle","kingdom2","yoshisisland64","yoshisstory","hyrulecastle64","hyruletemple","saffroncity","dreamland","sectorz","fourside","castlesiege","smashville","greenhillzone","theworldthatneverwas","skypillar","suzakucastle","krazoapalace","urbanchampion","fairyglade","palaceoftwilight","dededearena","snowpointtemple","jungleisland"
+]
+  },
+  "match_results_screen": {
+    "show_losing_team": false,
+    "no_contest_1": { "x": 28, "y": 90, "scaleX":1.25, "scaleY": 1.25, "visible": true },
+    "no_contest_2": { "x": 90, "y": 75, "scaleX": 1.05, "scaleY": 1.05, "visible": true },
+    "no_contest_3": { "x": -90, "y": 75, "scaleX": 1.05, "scaleY": 1.05, "visible": true },
+    "no_contest_4": { "x": -28, "y": 65, "scaleX": 0.85, "scaleY": 0.85, "visible": true },
+    "rank_1": { "x": 0, "y": 90, "scaleX": 2.15, "scaleY": 2.15, "visible": true },
+    "rank_2": { "x": 135.2, "y": 79.6, "scaleX": 1.25, "scaleY": 1.25, "visible": false },
+    "rank_3": { "x": -108.15, "y": 65, "scaleX": 0.8333333333, "scaleY": 0.8333333333, "visible": false },
+    "rank_4": { "x": -33.15, "y": 38.4, "scaleX": 0.625, "scaleY": 0.625, "visible": false },
+    "teammate_1": { "x": 0, "y": 87.50, "scaleX": 1.70, "scaleY": 1.70, "visible": true },
+    "teammate_2": { "x": -80, "y": 65, "scaleX": 1.25, "scaleY": 1.25, "visible": true },
+    "teammate_3": { "x": 80, "y": 65, "scaleX": 1.25, "scaleY": 1.25, "visible": true },
+    "teammate_4": { "x": -33.15, "y": 38.4, "scaleX": 0.625, "scaleY": 0.625, "visible": true }
+  }
+}

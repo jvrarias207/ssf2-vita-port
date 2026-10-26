@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:ffdec="https://www.free-decompiler.com/flash" xmlns:xlink="http://www.w3.org/1999/xlink" ffdec:objectType="frame" height="89.75px" width="94.7px" xmlns="http://www.w3.org/2000/svg">
+  <g transform="matrix(1.0, 0.0, 0.0, 1.0, 14.55, 20.6)">
+    <use ffdec:characterId="1049" height="21.9" id="itemBox" transform="matrix(-0.083, 0.9493, -0.9493, -0.083, 20.95, 31.4)" width="3.7" xlink:href="#sprite0"/>
+    <use ffdec:characterId="650" ffdec:characterName="mario_af11" height="57.0" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="61.0" xlink:href="#tag0"/>
+    <use ffdec:characterId="138" ffdec:characterName="mario_fla.CollisonBox_6" height="50.0" id="hitBox" transform="matrix(0.5973, 0.0, 0.0, 0.3811, 31.0, 35.55)" width="50.0" xlink:href="#sprite2"/>
+    <use ffdec:characterId="138" ffdec:characterName="mario_fla.CollisonBox_6" height="50.0" id="hitBox2" transform="matrix(0.4401, 0.0, 0.0, 0.346, 19.0, 23.7)" width="50.0" xlink:href="#sprite3"/>
+  </g>
+  <defs>
+    <g id="sprite0">
+      <use ffdec:characterId="1048" ffdec:characterName="mario_fla.itemPlaceholder_mc_5" height="21.9" transform="matrix(1.0, 0.0, 0.0, 1.0, -1.45, -20.95)" width="3.7" xlink:href="#sprite1"/>
+    </g>
+    <g id="sprite1">
+      <use ffdec:characterId="1047" height="21.9" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="3.7" xlink:href="#shape0"/>
+    </g>
+    <g id="shape0">
+      <path d="M0.0 20.9 L0.0 0.0 2.7 0.0 2.7 20.9 0.0 20.9" fill="#006600" fill-opacity="0.5372549" fill-rule="evenodd" stroke="none"/>
+      <path d="M0.0 20.9 L0.0 0.0 2.7 0.0 2.7 20.9 0.0 20.9 Z" ffdec:has-small-stroke="true" ffdec:original-stroke-width="1.0" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.6" stroke-width="1.049376995998875"/>
+    </g>
+    <g id="tag0">
+      <pattern height="57" id="PatternID_650_1" overflow="visible" patternTransform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" patternUnits="userSpaceOnUse" viewBox="0 0 61 57" width="61">
+        <image height="57" style="image-rendering:optimizeQuality" width="61" xlink:href="data:image/PNG;base64,iVBORw0KGgoAAAANSUhEUgAAAD0AAAA5CAYAAACF8yP/AAACuUlEQVR42u2YwUobYRSFsxUDEQUjQtE0orWCBnGhBaEbN4JS19KFUFC0myL4CHZR2m76CAVduHBfuvMNivQZ6gu0u5HzlzOcXv6JWnHyZ7wHDn8ykwnz/efeOyS1msvlcrlcLpfL5XK5XOlqeWo4g0cb9dyVB17rTGQXxxsB/MvOi+qDA/Tj9nyAhgFN8MpDE/zt+kKAxlpZ8Bg0jJJ/NNCAZcpDjdbjgWbKgO4LcPv4uSs4oQHbWf+cPrROYqwYSDf1pl7D0ib05cly2tD20cPkOI2Lbj6WMkv7Pkm3W8NZKdAKzJXTuNtgsi1B4Jd73/4LGsC///zKHhzcDiRNm+k9XdovhNDBBVh4vL11a2gFxOuzr9tZaWlryvb5C7AiEBzDOSSMzdHPTT0bzGIuShbrzx/n5UDbxO2jqFvahFbjGOCe7E5kMx9mgxdOF4NxjPAWstSkbY9qqSs0exU3xRuz0Nyc0VfN4Mn6YG4eAzw2gpBMG69LTTo23AiM0tUBxZtTYMDycwQHaKfZyDanG2ElPNIGOODeHayE7+N3lp60BWfCTFl7FjdHaAXW/sZ5AB8tDuUrTHBNG8BIvKfQtmcJTGgmzU0hsO1twDJpwsMEZ9r4vp4nXTSoCElgPcaUNWnAPh/4W+YsdcIDnEkDnPA9hya4LWGbPoG13Jn29+Z4AKeZPN/3fIjdVOIW1G6A9j+uez8yEgzw1wP1fzbgqtUO73GeT4RkoIvK3PYxYD+9GctXQgOWKyAVlsYmJPfDRKG1b7kBhNVqwDUApRWS5rkkoW1v28Gmpa2DTKHV2uPJAsfSZhlrT/O4pm0B4ePVubBigif/DwvTJlis1PlrS8FhgKqTTjgGHpvoOtn1eQ7Ai8ON3H0HHIPvZgXuix6+i9CbBGSSfTOs7guurrlcLpfL5XK5XK5K6xrf4t6Rp45fOAAAAABJRU5ErkJggg=="/>
+      </pattern>
+      <path d="M0.0 0.0 L0.0 57.0 61.0 57.0 61.0 0.0 0.0 0.0" ffdec:fill-bitmapId="650" fill-rule="evenodd" style="fill:url(#PatternID_650_1)"/>
+    </g>
+    <g id="sprite2">
+      <use ffdec:characterId="137" height="50.0" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="50.0" xlink:href="#shape1"/>
+    </g>
+    <g id="shape1">
+      <path d="M25.0 -25.0 L25.0 25.0 -25.0 25.0 -25.0 -25.0 25.0 -25.0" fill="#956626" fill-opacity="0.0" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="sprite3">
+      <use ffdec:characterId="137" height="50.0" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="50.0" xlink:href="#shape2"/>
+    </g>
+    <g id="shape2">
+      <path d="M25.0 -25.0 L25.0 25.0 -25.0 25.0 -25.0 -25.0 25.0 -25.0" fill="#956626" fill-opacity="0.0" fill-rule="evenodd" stroke="none"/>
+    </g>
+  </defs>
+</svg>

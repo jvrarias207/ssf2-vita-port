@@ -1,0 +1,88 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>SSF2 · Asset inspection</title>
+<style>
+:root{color-scheme:dark;font-family:system-ui,sans-serif;background:#10141d;color:#e9eef8}
+*{box-sizing:border-box}body{margin:0;padding:28px;max-width:1500px;margin:auto}
+header{display:flex;align-items:center;justify-content:space-between;gap:20px}h1{font-size:28px;margin:0}p{color:#aab7cb;line-height:1.55}
+.pill{color:#8ce0c7;border:1px solid #30574f;border-radius:30px;padding:8px 14px;font-size:13px}
+.tabs{display:flex;gap:10px;margin:24px 0 18px}button,select{font:inherit;border:1px solid #3a465b;background:#212b3e;color:#eff4ff;border-radius:7px;padding:9px 14px;cursor:pointer}button:hover{background:#33425c}button.active{background:#244e55;border-color:#64c9b3}
+.grid{display:grid;grid-template-columns:minmax(400px,1.35fr) minmax(300px,1fr);gap:20px}
+.panel{background:#171e2b;border:1px solid #2a3549;border-radius:12px;overflow:hidden}.pad{padding:18px}
+.toolbar{display:flex;gap:12px;align-items:center;flex-wrap:wrap;margin-bottom:15px}.toolbar label{font-size:13px;color:#bac7db}
+#viewport{height:430px;background-color:#0c111b;background-image:linear-gradient(#1c2738 1px,transparent 1px),linear-gradient(90deg,#1c2738 1px,transparent 1px);background-size:24px 24px;position:relative}
+#viewport>svg{height:100%;width:100%;image-rendering:pixelated}
+#viewport svg image{image-rendering:pixelated!important}
+.controls{display:flex;gap:10px;align-items:center}input[type=range]{flex:1;min-width:60px;accent-color:#7ad7bc}
+#position{min-width:95px;text-align:right;font-variant-numeric:tabular-nums}
+.legend{font-size:13px;display:flex;gap:18px;flex-wrap:wrap;margin:14px 0;color:#aab7cb}
+.red{color:#ff718b}.blue{color:#78b6ff}.gold{color:#ffd780}
+h2{font-size:17px;margin:0 0 12px}h3{font-size:13px;text-transform:uppercase;letter-spacing:.08em;color:#9daec5;margin:18px 0 8px}
+pre{font:12px/1.6 Consolas,monospace;white-space:pre-wrap;overflow-wrap:anywhere;margin:0;background:#0e1420;padding:12px;border-radius:7px;max-height:320px;overflow:auto}
+#details{font-size:13px;color:#b6c5d9;line-height:1.6}#boxes{max-height:125px;overflow:auto}#notice{font-size:13px;margin-bottom:0}
+footer{font-size:12px;line-height:1.7;color:#94a4bd;margin-top:20px}a{color:#86d8c3}
+@media(max-width:850px){body{padding:16px}.grid{grid-template-columns:1fr}header{align-items:start}h1{font-size:22px}}
+</style></head><body>
+<header><div><h1>SSF2 / Asset inspection</h1><p>Mario animation timelines & Final Destination geometry · v1.4.0.1</p></div><span class="pill">Source inspection · Offline</span></header>
+<div class="tabs"><button id="marioTab" class="active">Mario animations</button><button id="stageTab">Final Destination</button></div>
+<div class="grid">
+<section class="panel"><div class="pad">
+<div class="toolbar"><select id="animation" aria-label="Animation"></select><label><input id="overlay" type="checkbox" checked> Collision outlines</label><label><input id="raw" type="checkbox"> Raw helper artwork</label></div>
+<div id="viewport"></div>
+<div class="legend"><span class="red">■ Attack boxes</span><span class="blue">■ Hurtboxes / terrain</span><span class="gold">■ Other markers</span><span>+ Local origin</span></div>
+<div class="controls"><button id="prev" aria-label="Previous frame">←</button><button id="play">Play</button><button id="next" aria-label="Next frame">→</button><input id="scrub" aria-label="Frame" type="range" min="1" value="1"><span id="position"></span></div>
+<p id="notice">Timeline preview at 30 frames per second. Gameplay scripts are displayed, not executed.</p>
+</div></section>
+<aside class="panel pad"><h2 id="heading"></h2><div id="details"></div><h3>Authored markers</h3><div id="boxes"></div><h3 id="eventTitle">Event on this frame</h3><pre id="event"></pre><h3>Inspect a script method</h3><select id="method" aria-label="Script method"></select><pre id="methodCode" style="margin-top:10px"></pre></aside>
+</div>
+<footer><strong>Inspection limits</strong><ul id="limits"></ul><a href="animation-data.json" download>Download extracted timeline metadata</a></footer>
+<script src="data.js"></script><script>
+const data=window.ASSET_DATA, $=id=>document.getElementById(id), NS='http://www.w3.org/2000/svg', FF='https://www.free-decompiler.com/flash';
+let ai=0, fi=0, stage=false, playing=false, timer=null;
+data.animations.forEach((a,i)=>$('animation').add(new Option(a.name,i)));
+data.limitations.forEach(t=>{let li=document.createElement('li');li.textContent=t;$('limits').append(li)});
+function stop(){playing=false;clearInterval(timer);$('play').textContent='Play'}
+function setMethods(){const a=data.animations[ai];$('method').replaceChildren();Object.keys(a.methods).forEach(n=>$('method').add(new Option(n,n)));method()}
+function method(){$('methodCode').textContent=stage?'Stage scripts are preserved in the source export.':data.animations[ai].methods[$('method').value]||''}
+function render(){
+ const a=data.animations[ai],f=a.frames[fi];let source=stage?data.stage.svg:f.svg;
+ const doc=new DOMParser().parseFromString(source,'image/svg+xml'),svg=document.importNode(doc.documentElement,true);
+ const width=parseFloat(svg.getAttribute('width')),height=parseFloat(svg.getAttribute('height'));
+ svg.setAttribute('viewBox',`0 0 ${width} ${height}`);svg.removeAttribute('width');svg.removeAttribute('height');
+ const g=Array.from(svg.children).find(n=>n.tagName==='g');
+ if(!stage){g.removeAttribute('transform');svg.setAttribute('viewBox','-45 -35 150 125')}
+ $('viewport').replaceChildren(svg);
+ const markerNodes=Array.from(g.children).filter(n=>n.tagName==='use'&&(stage||/^(attackBox|hitBox|grabBox|itemBox|hand|range|touchBox|shieldBox|ledgeBox)\d*$/.test(n.id)));
+ let markerInfo=[];
+ markerNodes.forEach(node=>{
+   let name=stage?(data.stage.types[node.getAttributeNS(FF,'characterName')]||node.getAttributeNS(FF,'characterName')||'shape'):node.id;
+   const b=node.getBBox(),color=name.startsWith('attack')?'#ff718b':name.startsWith('hit')||name==='terrain'?'#78b6ff':'#ffd780';
+   markerInfo.push(name);
+   if(!$('raw').checked&&!stage)node.setAttribute('visibility','hidden');
+   if($('overlay').checked){
+     let r=document.createElementNS(NS,'rect');[['x',b.x],['y',b.y],['width',b.width],['height',b.height],['fill','none'],['stroke',color],['stroke-width',stage?1.6:.6],['transform',node.getAttribute('transform')||'']].forEach(([k,v])=>r.setAttribute(k,v));
+     r.setAttribute('data-overlay',name);g.append(r);
+     let title=document.createElementNS(NS,'title');title.textContent=name;r.append(title);
+   }
+ });
+ if(!stage){let cross=document.createElementNS(NS,'path');cross.setAttribute('d','M-3 0H3M0-3V3');cross.setAttribute('stroke','#fff');cross.setAttribute('stroke-width','.5');g.append(cross)}
+ $('heading').textContent=stage?'Final Destination · authored geometry':`Mario · ${a.name}`;
+ $('details').textContent=stage?'Terrain-container coordinates. Outlines are object bounds; the visible source shapes preserve more detail.':`Symbol ${a.symbolId} · Frame ${fi+1} of ${a.frames.length} · Source frame ${f.sourceFrame||fi+1} · Labels: ${f.labels.join(', ')||'none on this frame'}`;
+ $('boxes').textContent=markerInfo.join(' · ')||'No named collision markers on this frame.';
+ $('event').textContent=stage?'Terrain, ledges, starts, spawns and boundary markers are authored as Flash objects. This view does not simulate collisions.':f.eventSource||'No registered frame script on this frame.';
+ $('eventTitle').textContent=stage?'Geometry status':`Event on this frame${f.eventMethod?' · '+f.eventMethod:''}`;
+ $('scrub').max=a.frames.length;$('scrub').value=fi+1;$('position').textContent=stage?'Stage':`${fi+1} / ${a.frames.length}`;
+ ['prev','next','play','scrub','animation','method'].forEach(id=>$(id).disabled=stage);
+ $('raw').disabled=stage;
+ $('notice').textContent=stage?'Source geometry view. Stage animation and background effects are not simulated.':'Timeline preview at 30 frames per second. Gameplay scripts are displayed, not executed.';
+}
+$('animation').onchange=()=>{stop();ai=+$('animation').value;fi=0;setMethods();render()};
+$('scrub').oninput=()=>{stop();fi=+$('scrub').value-1;render()};
+$('prev').onclick=()=>{stop();fi=(fi-1+data.animations[ai].frames.length)%data.animations[ai].frames.length;render()};
+$('next').onclick=()=>{stop();fi=(fi+1)%data.animations[ai].frames.length;render()};
+$('play').onclick=()=>{if(playing)return stop();playing=true;$('play').textContent='Pause';timer=setInterval(()=>{fi=(fi+1)%data.animations[ai].frames.length;render()},1000/data.fps)};
+$('overlay').onchange=render;$('raw').onchange=render;$('method').onchange=method;
+function tab(value){stop();stage=value;$('marioTab').classList.toggle('active',!stage);$('stageTab').classList.toggle('active',stage);method();render()}
+$('marioTab').onclick=()=>tab(false);$('stageTab').onclick=()=>tab(true);
+setMethods();render();
+</script></body></html>

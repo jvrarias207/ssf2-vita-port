@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:ffdec="https://www.free-decompiler.com/flash" xmlns:xlink="http://www.w3.org/1999/xlink" ffdec:objectType="frame" height="55.6px" width="58.9px" xmlns="http://www.w3.org/2000/svg">
+  <g transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.6)">
+    <use ffdec:characterId="530" ffdec:characterName="mario_da3" height="55.0" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="55.0" xlink:href="#tag0"/>
+    <use ffdec:characterId="1049" height="21.9" id="itemBox" transform="matrix(0.335, 0.9373, -0.9373, 0.335, 33.95, 36.45)" width="3.7" xlink:href="#sprite0"/>
+    <use ffdec:characterId="138" ffdec:characterName="mario_fla.CollisonBox_6" height="50.0" id="hitBox" transform="matrix(0.8413, 0.0, 0.0, 0.8252, 24.1, 26.5)" width="50.0" xlink:href="#sprite2"/>
+  </g>
+  <defs>
+    <g id="tag0">
+      <pattern height="55" id="PatternID_530_1" overflow="visible" patternTransform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" patternUnits="userSpaceOnUse" viewBox="0 0 55 55" width="55">
+        <image height="55" style="image-rendering:optimizeQuality" width="55" xlink:href="data:image/PNG;base64,iVBORw0KGgoAAAANSUhEUgAAADcAAAA3CAYAAACo29JGAAADi0lEQVR42u2Zv2sUQRzFr7ki5OBCAjkJSDzv8CeYI1hEQRBEi0BEC6tgIQhKtBGJtlaxkMTGylrQwsJaSRcOrEXEP0FL4dDKlTfy1rffzK7G3O3NHfOFx+zuzR3z2fed78zuVSoxYsSIESPG4KLVnE6gsYSCPn14k+j5WMAB6t6dM8n3H19cS8ii77WPTSY+BeUYYF6/WE1FyDw4Qhx9cjyjg7fmnYIApGMEQovzPDBCzV5ppCCAWni1GC4gpGC+lLRQBKMU8P36hbDSU1MSwjWdRwqlYICC1j8/TK89utQOC45QcA1SpzTdrFsEo3PoQ7ggCgyd0yWAbtmiUST0xw2x3x0qJIGuT9SSxzMzyXZjblcq5lVGilAKRmcJODT3TkxM7oLDgG0RIYjCWCgtMMGsfQAEHJS3QFt1GvVk49zJJOgF3efeodrvwVM4p3D+YHHKtTv3V5y63S5g3OdBbsXoHuEuH/kD9vPtptO352spHD4HGK71er2kcm07cxOCA/UBogUAUhDCNQWjeK43IihApifvPBxCy/QDHI8JQRBeV9h9w83WawnUL9em6k0nph5T0+dQtVpNpeC8Ef8Nt9SeTlT7hSTU4dNrTnb+6MAJqnBUX+YcgDZXT6XC+cXOvAPkQPcKNde66trO8tP0NzD/4CgG63PHwvVlfigcj+kgBoeBFkEqFPpbOF5jP4iO5EH2HczC0b3zt9+5waoLCkYI9EFfHqPFOa8xTQmKuWlTtq9VUeF2NlYycHeXFzLucaDqAiG2bh7I9FE4gqEFEMTfGGjJBgSgCIRjQhKOaWYdYOoRRIE0LRWMax+OBw6ngFoxLRgHramlcDYd0aoAwm3Z12bLCYClLLp2GdBKCWlh0HlDOArpaQsJ56o6Vyrcv5Z5Xb8453wwWkjQD1B2Ux0MXB6owhKMxUVdA5A+pQfz0lZT9m+7kbyigj58FaHvWvgKcCiQWmy47uW5qUVGCwzB9eUtoCAe8/1LqWB2Swb5FnLf1gv6+HIpPadDCkUHCV0aINNRncMSwerpm3MsMpRet/8pWKjS0lN3KrqoY5C6A9G9pMLk7Un1FaBtS09H3Yo9u3E2dc0u0gTlXKOzRX91EajUguLbbyqcVkXf5ngvj0mlV8ciMACgSIwUlG8jXeSafRANGsrC2QrJjbTdnVRGLbgEcF0rWrxHMvTpYKzAYsSIESNGjBhhxi/y19c7rppYwwAAAABJRU5ErkJggg=="/>
+      </pattern>
+      <path d="M0.0 0.0 L0.0 55.0 55.0 55.0 55.0 0.0 0.0 0.0" ffdec:fill-bitmapId="530" fill-rule="evenodd" style="fill:url(#PatternID_530_1)"/>
+    </g>
+    <g id="sprite0">
+      <use ffdec:characterId="1048" ffdec:characterName="mario_fla.itemPlaceholder_mc_5" height="21.9" transform="matrix(1.0, 0.0, 0.0, 1.0, -1.45, -20.95)" width="3.7" xlink:href="#sprite1"/>
+    </g>
+    <g id="sprite1">
+      <use ffdec:characterId="1047" height="21.9" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="3.7" xlink:href="#shape0"/>
+    </g>
+    <g id="shape0">
+      <path d="M0.0 20.9 L0.0 0.0 2.7 0.0 2.7 20.9 0.0 20.9" fill="#006600" fill-opacity="0.5372549" fill-rule="evenodd" stroke="none"/>
+      <path d="M0.0 20.9 L0.0 0.0 2.7 0.0 2.7 20.9 0.0 20.9 Z" ffdec:has-small-stroke="true" ffdec:original-stroke-width="1.0" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.6" stroke-width="1.0046461746630688"/>
+    </g>
+    <g id="sprite2">
+      <use ffdec:characterId="137" height="50.0" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="50.0" xlink:href="#shape1"/>
+    </g>
+    <g id="shape1">
+      <path d="M25.0 -25.0 L25.0 25.0 -25.0 25.0 -25.0 -25.0 25.0 -25.0" fill="#956626" fill-opacity="0.0" fill-rule="evenodd" stroke="none"/>
+    </g>
+  </defs>
+</svg>
